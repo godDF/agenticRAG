@@ -1,0 +1,21 @@
+﻿question_type,指标,metric_key,Traditional RAG,Agentic RAG,绝对变化(Agentic-Baseline),相对改善,变化95%CI下限,变化95%CI上限,配对样本数,统计显著,优胜系统,方向
+multi_context,Recall@5,retrieval.final.recall@5,0.9791666666666666,0.9166666666666666,-0.0625,-0.06382978723404256,-0.14583333333333334,0.020833333333333332,24,False,Traditional RAG,越高越好
+multi_context,MRR,retrieval.final.mrr,0.9583333333333334,0.8472222222222222,-0.11111111111111112,-0.11594202898550729,-0.20842013888888888,-0.027604166666666825,24,True,Traditional RAG,越高越好
+multi_context,Faithfulness,ragas.faithfulness,0.925968176023323,0.8570722101972101,-0.06889596582611289,-0.07440424801853834,-0.1871576187293099,0.016120214361482723,24,False,Traditional RAG,越高越好
+multi_context,正确拒答率,decision.correct_abstention,,,,,,,0,False,N/A,越高越好
+noise_conflict,Recall@5,retrieval.final.recall@5,1.0,1.0,0.0,0.0,0.0,0.0,12,False,持平,越高越好
+noise_conflict,MRR,retrieval.final.mrr,0.9166666666666666,0.9583333333333334,0.041666666666666664,0.04545454545454554,-0.08333333333333333,0.16666666666666666,12,False,Agentic RAG,越高越好
+noise_conflict,Faithfulness,ragas.faithfulness,0.7125,0.7167989417989418,0.004298941798941812,0.006033602524830522,-0.1116807208994709,0.1448462301587302,12,False,Agentic RAG,越高越好
+noise_conflict,正确拒答率,decision.correct_abstention,,,,,,,0,False,N/A,越高越好
+paraphrase,Recall@5,retrieval.final.recall@5,1.0,1.0,0.0,0.0,0.0,0.0,24,False,持平,越高越好
+paraphrase,MRR,retrieval.final.mrr,0.9145833333333333,0.8729166666666667,-0.041666666666666664,-0.045558086560364426,-0.10416666666666667,0.0,24,False,Traditional RAG,越高越好
+paraphrase,Faithfulness,ragas.faithfulness,0.9333648989898989,0.8909556878306878,-0.04240921115921115,-0.04543690383590278,-0.09583953373015872,0.010716991341991331,24,False,Traditional RAG,越高越好
+paraphrase,正确拒答率,decision.correct_abstention,,,,,,,0,False,N/A,越高越好
+single_hop,Recall@5,retrieval.final.recall@5,1.0,1.0,0.0,0.0,0.0,0.0,48,False,持平,越高越好
+single_hop,MRR,retrieval.final.mrr,0.9392361111111112,0.9305555555555556,-0.008680555555555556,-0.009242144177449193,-0.03125,0.005208333333333332,48,False,Traditional RAG,越高越好
+single_hop,Faithfulness,ragas.faithfulness,0.898631779100529,0.8962224118474118,-0.002409367253117259,-0.0026811507328717687,-0.06054936093998595,0.0514108663327413,48,False,Traditional RAG,越高越好
+single_hop,正确拒答率,decision.correct_abstention,,,,,,,0,False,N/A,越高越好
+unanswerable,Recall@5,retrieval.final.recall@5,,,,,,,0,False,N/A,越高越好
+unanswerable,MRR,retrieval.final.mrr,,,,,,,0,False,N/A,越高越好
+unanswerable,Faithfulness,ragas.faithfulness,0.9011904761904762,0.4666666666666667,-0.4857142857142857,-0.4821664464993395,-1.0,-0.19999999999999996,3,True,Traditional RAG,越高越好
+unanswerable,正确拒答率,decision.correct_abstention,0.0,0.8333333333333334,0.8333333333333334,,0.5833333333333334,1.0,12,True,Agentic RAG,越高越好

@@ -1,0 +1,24 @@
+{
+  "collection": "chinatravel_safety_knowledge",
+  "point_count": 104,
+  "category_counts": {
+    "student_ticket": 57,
+    "highspeed_rail_safety": 8,
+    "child_ticket": 7,
+    "flight_safety": 11,
+    "elderly_ticket": 10,
+    "attraction_notice": 11
+  },
+  "clean_manifest_chunk_count": 57,
+  "clean_chunk_coverage": 1.0,
+  "clean_chunks_present": 57,
+  "clean_chunks_missing": 0,
+  "extra_production_chunks": 47,
+  "duplicate_uid_groups": 0,
+  "duplicate_content_groups": 0,
+  "issue_count": 52,
+  "issue_counts": {
+    "category_mismatch": 5,
+    "missing_metadata": 47
+  }
+}

@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ChinaTravel · Agentic RAG 工作台</title>
+  <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+  <div class="ambient ambient-one"></div>
+  <div class="ambient ambient-two"></div>
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">CT</div>
+      <div>
+        <h1>Agentic RAG 工作台</h1>
+        <p>ChinaTravel 知识摄取、检索与可观测性</p>
+      </div>
+    </div>
+    <div class="system-strip">
+      <span id="serviceStatus" class="status-dot neutral"></span>
+      <span id="serviceText">正在检查服务</span>
+      <span class="divider"></span>
+      <span id="qdrantText">Qdrant 未检查</span>
+    </div>
+  </header>
+
+  <main class="shell">
+    <aside class="sidebar panel">
+      <div class="eyebrow">工作区</div>
+      <button class="nav-item active" data-tab="upload"><span>01</span>知识上传</button>
+      <button class="nav-item" data-tab="query"><span>02</span>Agent 调试</button>
+      <button class="nav-item" data-tab="documents"><span>03</span>文档管理</button>
+      <div class="sidebar-note">
+        <strong>本地模型下载</strong>
+        <span>关闭 · BGE-M3 通过 API 调用</span>
+      </div>
+    </aside>
+
+    <section class="workspace">
+      <section id="tab-upload" class="tab-page active">
+        <div class="page-head">
+          <div>
+            <div class="eyebrow">Document ingestion</div>
+            <h2>构建旅行规则知识库</h2>
+            <p>上传文件后，跟踪解析、分片、Embedding 和向量写入的完整过程。</p>
+          </div>
+          <span class="pill">六类知识 · Markdown 归档</span>
+        </div>
+
+        <div class="grid two-cols">
+          <form id="uploadForm" class="panel form-panel">
+            <div id="dropZone" class="drop-zone">
+              <input id="fileInput" name="file" type="file" accept=".md,.txt,.pdf,.docx" required>
+              <div class="upload-glyph">↑</div>
+              <strong id="fileLabel">拖放文件，或点击选择</strong>
+              <span>支持 MD / TXT / PDF / DOCX，最大 10 MB</span>
+            </div>
+            <div class="form-grid">
+              <label>知识分类
+                <select name="category" required>
+                  <option value="student_ticket">学生票规则</option>
+                  <option value="child_ticket">儿童票规则</option>
+                  <option value="elderly_ticket">老人票规则</option>
+                  <option value="flight_safety">航班安全须知</option>
+                  <option value="highspeed_rail_safety">高铁安全须知</option>
+                  <option value="attraction_notice">景点注意事项</option>
+                </select>
+              </label>
+              <div class="auto-title-field"><span>自动识别标题</span><strong id="autoTitlePreview">选择文件后自动识别</strong></div>
+              <label>来源名称（可选）<input name="source_name" maxlength="200" placeholder="例如：中国铁路 12306"></label>
+              <label>更新时间<input name="updated_at" type="date" required></label>
+              <label class="wide">来源地址（可选）<input name="source_url" type="url" maxlength="1000" placeholder="https://..."></label>
+            </div>
+            <button id="uploadButton" class="primary full" type="submit">上传并构建索引</button>
+          </form>
+
+          <div class="panel progress-panel">
+            <div class="section-title"><div><span class="live-dot"></span>实时进度</div><span id="jobStatus" class="status-label idle">等待任务</span></div>
+            <div class="progress-group">
+              <div class="progress-copy"><span>文件上传</span><strong id="networkPercent">0%</strong></div>
+              <div class="progress-track"><div id="networkBar" class="progress-bar network"></div></div>
+            </div>
+            <div class="progress-group">
+              <div class="progress-copy"><span id="stageLabel">知识库处理</span><strong id="processPercent">0%</strong></div>
+              <div class="progress-track"><div id="processBar" class="progress-bar process"></div></div>
+            </div>
+            <div id="jobSummary" class="empty-state compact">上传文件后，这里会显示每一步处理状态。</div>
+          </div>
+        </div>
+
+        <div class="metrics" id="uploadMetrics">
+          <div class="metric panel"><span>Token 总量</span><strong id="metricTokens">0</strong><small id="metricTokenHint">等待统计</small></div>
+          <div class="metric panel"><span>总耗时</span><strong id="metricLatency">0 ms</strong><small>端到端处理</small></div>
+          <div class="metric panel"><span>本次上传成本（BGE-M3）</span><strong id="metricCost">等待计算</strong><small id="metricCostHint">本步骤不调用 DeepSeek</small></div>
+          <div class="metric panel"><span>调用 / 错误</span><strong id="metricCalls">0 / 0</strong><small id="metricCallHint">Agent · LLM · Tool</small></div>
+        </div>
+
+        <div class="panel trace-panel">
+          <div class="section-title">
+            <div>执行链路 Trace</div>
+            <div class="filters" id="uploadFilters">
+              <button class="filter active" data-filter="all">全部</button>
+              <button class="filter" data-filter="agent">Agent</button>
+              <button class="filter" data-filter="llm">LLM</button>
+              <button class="filter" data-filter="tool">Tool</button>
+              <button class="filter" data-filter="error">错误</button>
+            </div>
+          </div>
+          <div id="uploadTrace" class="timeline"><div class="empty-state">暂无执行记录</div></div>
+        </div>
+      </section>
+
+      <section id="tab-query" class="tab-page">
+        <div class="page-head">
+          <div><div class="eyebrow">Agent debugger</div><h2>检索与 Agent 调试</h2><p>观察规划、召回、证据评估、改写、回答和发布校验。</p></div>
+          <span class="pill violet">最多两轮检索</span>
+        </div>
+        <div class="grid query-grid">
+          <form id="queryForm" class="panel form-panel">
+            <label>知识分类
+              <select name="category">
+                <option value="student_ticket">学生票规则</option>
+                <option value="child_ticket">儿童票规则</option>
+                <option value="elderly_ticket">老人票规则</option>
+                <option value="flight_safety">航班安全须知</option>
+                <option value="highspeed_rail_safety">高铁安全须知</option>
+                <option value="attraction_notice">景点注意事项</option>
+              </select>
+            </label>
+            <label>用户问题<textarea name="query" rows="5" maxlength="2000" required placeholder="例如：学生票乘车需要携带什么证件？"></textarea></label>
+            <button id="queryButton" class="primary full" type="submit">运行 Agentic RAG</button>
+          </form>
+          <div class="panel answer-panel">
+            <div class="section-title"><div>最终回答</div><span id="answerStatus" class="status-label idle">未运行</span></div>
+            <div id="answerContent" class="empty-state">执行查询后显示有来源约束的回答。</div>
+            <div id="sourceList" class="source-list"></div>
+          </div>
+        </div>
+        <div class="metrics">
+          <div class="metric panel"><span>输入 / 输出 Token</span><strong id="queryTokens">0 / 0</strong><small id="queryTokenHint">命中缓存 0 · 未命中 0</small></div>
+          <div class="metric panel"><span>检索轮次</span><strong id="queryRounds">0</strong><small>硬上限 2</small></div>
+          <div class="metric panel"><span>总耗时</span><strong id="queryLatency">0 ms</strong><small>端到端查询</small></div>
+          <div class="metric panel"><span>DeepSeek 估算成本</span><strong id="queryCost">¥0.000000</strong><small id="queryCostHint">V4-Flash 官方人民币单价</small></div>
+        </div>
+        <div class="panel trace-panel">
+          <div class="section-title"><div>Agent / LLM / Tool 调用记录</div><span id="traceId" class="mono muted">Trace —</span></div>
+          <div id="queryTrace" class="timeline"><div class="empty-state">暂无执行记录</div></div>
+        </div>
+      </section>
+
+      <section id="tab-documents" class="tab-page">
+        <div class="page-head">
+          <div><div class="eyebrow">Knowledge registry</div><h2>已索引文档</h2><p>查看 SQLite 登记信息和 Qdrant 分片数量。</p></div>
+          <button id="refreshDocuments" class="secondary">刷新列表</button>
+        </div>
+        <div id="documentList" class="document-grid"><div class="panel empty-state">点击刷新加载文档。</div></div>
+      </section>
+    </section>
+  </main>
+  <div id="toast" class="toast"></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

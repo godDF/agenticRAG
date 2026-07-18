@@ -1,0 +1,1466 @@
+{
+  "dataset_version": "v1",
+  "kb_dir": "D:\\agent_project\\ChinaTravel-main\\kb",
+  "corpus_hash": "e1e2caec261d82666f060ef10ff994710a169dbc7fcd57f218a8532de6e8fb0d",
+  "document_count": 50,
+  "chunk_count": 57,
+  "documents": [
+    {
+      "document_id": "35c530d7a48d8c12141a61206b177fbb",
+      "title": "成都博物馆参观安全与文明须知",
+      "category": "attraction_notice",
+      "source_name": "成都博物馆官方网站",
+      "source_url": "https://www.cdmuseum.com/zhinan/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/chengdu_museum_visit_safety.md",
+      "file_sha256": "f38f54b8b8790a350f5dafcd1bf139a6eb40bbf8d374b360a6fe43d5631d8fbf",
+      "chunk_uids": [
+        "5d80b3cfde9b7d8a9a568aa1a58d6f9b4cc40bf65ea5ee9b77ab2006bbb47361"
+      ]
+    },
+    {
+      "document_id": "64b953be6133c5263ac53d6e42a28a30",
+      "title": "中国国家博物馆预约与入馆须知",
+      "category": "attraction_notice",
+      "source_name": "中国国家博物馆官方网站",
+      "source_url": "https://www.chnmuseum.cn/cg/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/china_national_museum_booking.md",
+      "file_sha256": "8de6719894e59039ee2976efb639d9a0eb50ee5964e04843b13f609dfc990a3b",
+      "chunk_uids": [
+        "24e2917b67997242698d82756bcc0320359f629c243b631a2781fdd011a6ab4f",
+        "32a972da2866970cdf4cbea841c8343aa3f5e83119f2c886c02f58d9d8cd9e25"
+      ]
+    },
+    {
+      "document_id": "ddea9895a0be8a972dca89ba59e8c025",
+      "title": "旅游景区通用安全注意事项",
+      "category": "attraction_notice",
+      "source_name": "文化和旅游部旅游景区安全提示",
+      "source_url": "https://mct.gov.cn/wlbphone/wlbydd/xxfb/jiaodianxinwen/202301/t20230123_938778.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/attraction_notice/general_attraction_safety.md",
+      "file_sha256": "118986d2d97df055c3a1b59c660f877a7df63a79550bd645e0f618442ba1742d",
+      "chunk_uids": [
+        "c692c80212cfd9c6c42882caeea64aac57a66c345e0c322d4a2037a3fbb696db"
+      ]
+    },
+    {
+      "document_id": "3f8217690425497c5df89c7a31286f65",
+      "title": "汛期暑期景区与户外旅游安全提示",
+      "category": "attraction_notice",
+      "source_name": "文化和旅游部汛期暑期出游提示",
+      "source_url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/jiaodianxinwen/202406/t20240627_953746.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/mct_flood_season_safety.md",
+      "file_sha256": "e29ebf970e4e44b015666beac0ba6f6f0ebbde535933e38f5eef5553f3494258",
+      "chunk_uids": [
+        "90f8b367c4aa06155cdfa5e9093dbf4ee47c6af2725eb2cdf8b0cb1d58f98d62"
+      ]
+    },
+    {
+      "document_id": "8de332f476d73e61d1381d9a57df5332",
+      "title": "文化和旅游部旅游安全八项提示",
+      "category": "attraction_notice",
+      "source_name": "文化和旅游部旅游安全提示",
+      "source_url": "https://www.mct.gov.cn/ggfw/cxts/202602/t20260212_964704.htm",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/mct_travel_safety_2026.md",
+      "file_sha256": "682b9838439cf1d58ed0d67f51774b18121f8fd8dd304c79cacf81ed63ab0657",
+      "chunk_uids": [
+        "73faafc200d59e6310731d8f65a3f4891ebc3f516b9ffa2ec5e63bb69c8f29d5"
+      ]
+    },
+    {
+      "document_id": "75c330b2b3ed05ee8968cd4ee0427dfd",
+      "title": "国家自然博物馆实名预约与爽约规则",
+      "category": "attraction_notice",
+      "source_name": "国家自然博物馆官方网站",
+      "source_url": "https://www.nnhm.org.cn/cgzx/cgxx/index.shtml",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/national_natural_history_museum_booking.md",
+      "file_sha256": "82f39d4c01e49647d9002877016b315a3c65c7893d3b3cfcb51fbce93af3051a",
+      "chunk_uids": [
+        "6759987f67a56fe72efbc0109ee6d16fb9994ecb8d88b1753fe3f9bc96542eaf"
+      ]
+    },
+    {
+      "document_id": "6d506e582321dab56b384aa78cfe4c89",
+      "title": "故宫博物院预约检票安检与参观路线须知",
+      "category": "attraction_notice",
+      "source_name": "故宫博物院参观须知",
+      "source_url": "https://www.dpm.org.cn/singles_detail/259831.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/palace_museum_visit_rules.md",
+      "file_sha256": "890c778a5bde985a692a8cf25171d4358ccea6e3f73aab03b0c18ba7eb0943d2",
+      "chunk_uids": [
+        "4b535cdb4ffd65d5f5c80f17652afe41fbeb7f40f88142f8708f6912e36d96c6",
+        "818e07d55a63ecda718698f4007a7ce330972ece955be4829aa02b47562f8a2d"
+      ]
+    },
+    {
+      "document_id": "3eb6c7053a7e5c8d76a1cbb2356ad58f",
+      "title": "秦始皇帝陵博物院预约与游览时间须知",
+      "category": "attraction_notice",
+      "source_name": "秦始皇帝陵博物院官方网站",
+      "source_url": "https://www.bmy.com.cn/guide/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/qinling_museum_visit_guide.md",
+      "file_sha256": "edd25d1bc3efdabde1cdf5b01639e80c1459a34c7a7e9cf6113c126284980410",
+      "chunk_uids": [
+        "2873c25c0e3750ea7684c2e75c05b6724bb442613c6190a964e2e97999319594"
+      ]
+    },
+    {
+      "document_id": "7dc61375ae6999decf1a67969218e99e",
+      "title": "上海博物馆预约与文明参观须知",
+      "category": "attraction_notice",
+      "source_name": "上海博物馆官方网站",
+      "source_url": "https://www.shanghaimuseum.net/mu/frontend/pg/service/admission",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/shanghai_museum_visit_rules.md",
+      "file_sha256": "662d56e3d4b8d1f766398bb344ca48be75fb2262dc41e1bab0343d4b18158a9d",
+      "chunk_uids": [
+        "67e73034e62652b88530ed2a9eaef8b14826f2510d603c13add6d854d19bc7fb"
+      ]
+    },
+    {
+      "document_id": "d9eb9fd948a39c79baa4fa594c46bf3b",
+      "title": "国航儿童婴儿优惠票退改规则",
+      "category": "child_ticket",
+      "source_name": "中国国际航空公司官方网站",
+      "source_url": "https://www.airchina.com.cn/zh-CN/content/trans_conditions/refund/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/airchina_child_infant_refund_change.md",
+      "file_sha256": "35ddd451bdcb08be083aa551c5ab14e05c8d42f3ce3500c2fb8efbfa2682d0f0",
+      "chunk_uids": [
+        "e2335d4d04f7c088e3234e7a7d96a15c58416b0bdcbeb0a4c2b7f555882ac8da"
+      ]
+    },
+    {
+      "document_id": "ea7e6dcabc0bccbbb587875cfeae331c",
+      "title": "国航儿童与婴儿旅客承运规则",
+      "category": "child_ticket",
+      "source_name": "中国国际航空公司官方网站",
+      "source_url": "https://www.airchina.com.cn/zh-CN/content/trans_conditions/lk-xlysztj2023n9yb/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/airchina_child_transport_rules.md",
+      "file_sha256": "17d49294c5d0217c44278ed122c0a79c8feb8529d1f935d47ecf1407b33de83a",
+      "chunk_uids": [
+        "3875cdb2407ac2ee039668175e6e94cc552f5d0a85e5f43a528b810a7794c480"
+      ]
+    },
+    {
+      "document_id": "0c92e872a70353e24e76629afaaa38c4",
+      "title": "南航儿童乘机证件与免费行李规则",
+      "category": "child_ticket",
+      "source_name": "中国南方航空公司官方网站",
+      "source_url": "https://www.csair.com/hk/zh/tourguide/before_ready/special_assistance/child/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/csair_child_documents_baggage.md",
+      "file_sha256": "05de540aa1f7ebf3f47f5e7605b7f61a53837bffb336a59ef49f888716c1af85",
+      "chunk_uids": [
+        "1836c7d24bee7af4cf1b64f23d41025d980f177289e63a099dde108a7ca208e3"
+      ]
+    },
+    {
+      "document_id": "5500f98a8831b1e5917ce874592e363f",
+      "title": "南航儿童票与婴儿票基本规则",
+      "category": "child_ticket",
+      "source_name": "中国南方航空公司官方网站",
+      "source_url": "https://www.csair.com/hk/tc/orders/order/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/csair_child_infant_ticket_rules.md",
+      "file_sha256": "d3a3ec3f2c657df5eaec81aa0367db824eeb5e6e5a1f2bf0b7bece2155125c1e",
+      "chunk_uids": [
+        "28f084e36238cec93f3f9cbef4aa62ae6e754a01c13f57196a5a35fb827bed5b"
+      ]
+    },
+    {
+      "document_id": "5b17ea6268bd1535b8d7ac69553c8c50",
+      "title": "南航无成人陪伴儿童服务规则",
+      "category": "child_ticket",
+      "source_name": "中国南方航空公司官方网站",
+      "source_url": "https://www.csair.com/hk/zh/tourguide/before_ready/special_assistance/child/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/csair_unaccompanied_child_service.md",
+      "file_sha256": "8234d88521e319e9a5b6ba69e4b74c79e68ffe8ff8b24c8f02fdb35bbe049d1a",
+      "chunk_uids": [
+        "fa0f14b3d7b352170ef0663a80af1ddec85560d5b037fac20b86eb2bb18345df"
+      ]
+    },
+    {
+      "document_id": "12491fa20fa8d2e45ddf8d1e0430757f",
+      "title": "铁路儿童优惠票与免费乘车规则",
+      "category": "child_ticket",
+      "source_name": "中国铁路12306《铁路旅客运输规程》",
+      "source_url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/transportationRules.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/child_ticket/railway_child_ticket.md",
+      "file_sha256": "5aa1163eff2404b734e8320d9081e18571e0c9ace31f3cf5f6b6cfe6ec5e2575",
+      "chunk_uids": [
+        "8c8d62de380c08818806070d4671dbd24a38d30c7a292ce3aadb98573fe1fe94"
+      ]
+    },
+    {
+      "document_id": "83f8827a37614fd1a18de90258455ce9",
+      "title": "铁路儿童优惠票与免费乘车常见问题",
+      "category": "child_ticket",
+      "source_name": "中国铁路12306儿童票常见问题",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/children.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/railway_child_ticket_faq_12306.md",
+      "file_sha256": "9574fad1aa703a35654ae3780e668bdd484f9f6573833a05d79012d646d298b8",
+      "chunk_uids": [
+        "3273abde59af18b3a5440f2fc461a49ab93b4942da2b7ce81381c1569541fdf5"
+      ]
+    },
+    {
+      "document_id": "ec624fa75a04cffc3c4a85b9a28a5157",
+      "title": "丹霞山2026年老年人门票优惠规则",
+      "category": "elderly_ticket",
+      "source_name": "丹霞山风景名胜区官方网站",
+      "source_url": "https://dxs.sg.gov.cn/zwgk/bmwj/content/post_2801349.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/danxia_elderly_ticket_2026.md",
+      "file_sha256": "472205f0e7a40eb02b5e1d9b98fa3d757ab8151dd53f9fc47593c4de95d3f418",
+      "chunk_uids": [
+        "87d1a19f4d819ef2f17ba5ffe4c3aaf27e0686f2218e203a9edc3e973f52b6d8"
+      ]
+    },
+    {
+      "document_id": "8f83aa746c463c018da05a1c36087e2c",
+      "title": "老年人进入文化场馆和旅游景区的适老预约服务",
+      "category": "elderly_ticket",
+      "source_name": "文化和旅游部国家文物局适老服务通知",
+      "source_url": "https://www.mct.gov.cn/whzx/bnsj/ggwhs/202012/t20201229_920306.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/elderly_scenic_access_services.md",
+      "file_sha256": "3fb914b10eef835a02d3dc671559a18475a7f33751ed023f97ef53e0a85535e4",
+      "chunk_uids": [
+        "d1d9b44a1df19d0f9f1a4369d4a3d884859c6182d118fa219fe9d852f82066ab"
+      ]
+    },
+    {
+      "document_id": "d754e558f912f053604ba56061f006df",
+      "title": "老年人景区门票优惠的一般政策原则",
+      "category": "elderly_ticket",
+      "source_name": "国家发展改革委景区老年人门票政策答复",
+      "source_url": "https://www.ndrc.gov.cn/xxgk/jianyitianfuwen/qgrddbjyfwgk/202107/t20210708_1288071.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/elderly_scenic_ticket_principles.md",
+      "file_sha256": "ccd2a58e2aa20747f0d144f6dca29c7f1313fc68c1b5e5be4432dfd4f7e81246",
+      "chunk_uids": [
+        "4bee622e43174a7c44435920f4cb1207bea387f627388f16cd1854d2548ea3c4"
+      ]
+    },
+    {
+      "document_id": "fda942b300d7204904c578829ab42367",
+      "title": "老年旅客票务与景区服务提示",
+      "category": "elderly_ticket",
+      "source_name": "文化和旅游部、国家文物局适老化服务通知",
+      "source_url": "https://mct.gov.cn/whzx/bnsj/ggwhs/202012/t20201229_920306.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/elderly_ticket/elderly_travel_rules.md",
+      "file_sha256": "2df09bb782fb6a760e45bd2058c081c3aa7fe011d438d113ce1a44f6a1e0c640",
+      "chunk_uids": [
+        "743aa1c979ef06337887bd2708ada7d3764a8d05d63f0f79b63f3a15b96a142e"
+      ]
+    },
+    {
+      "document_id": "3637b0427a1486d259b999cc5c02df18",
+      "title": "福州老年人景区门票与代步交通优惠",
+      "category": "elderly_ticket",
+      "source_name": "福州市人民政府",
+      "source_url": "https://www.fuzhou.gov.cn/zgfzhd/znhd/sfgw/stwmjs/202404/t20240412_4808502.htm",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/fuzhou_elderly_scenic_transport.md",
+      "file_sha256": "e6e038ecb7f070f571e8b219c2a7e27ffda944cb09d3f28b9c7d5da898c8931b",
+      "chunk_uids": [
+        "61314fdf3156669e53ff0a60d18e16f73990393a6d4f552845b65ad1a363430a"
+      ]
+    },
+    {
+      "document_id": "bebfdd62b4d0077724246576f5df4439",
+      "title": "广州市政府指导价景区老年人优惠规则",
+      "category": "elderly_ticket",
+      "source_name": "广州市人民政府",
+      "source_url": "https://www.gz.gov.cn/zwgk/gzsrmzfgbn/2025/28/content/post_10612462.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/guangzhou_elderly_scenic_policy.md",
+      "file_sha256": "a84916c41917293eb45df88404714c36dbd5f204216bc2e974f98842c238249e",
+      "chunk_uids": [
+        "e4183f497338fbda5d348d33e0d2e52d42ed2d5e80c94f3ec120c2e989b3dc32"
+      ]
+    },
+    {
+      "document_id": "b964c4ba67ce7c94488890dfcaa50302",
+      "title": "河源市旅游景区老年人门票优惠政策",
+      "category": "elderly_ticket",
+      "source_name": "河源市发展和改革局",
+      "source_url": "https://www.heyuan.gov.cn/hysfgj/gkmlpt/content/0/630/post_630954.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/heyuan_elderly_scenic_policy.md",
+      "file_sha256": "616a4a3b7e603a51df478d8b61ee6413a052ba43d3d0f3cdc347ea105539d982",
+      "chunk_uids": [
+        "15d2e06b82e9fd9ac8f1019b0cc7e4ecefe14ac57d2fbaf29c3f5a7a992110a5"
+      ]
+    },
+    {
+      "document_id": "b3b046ebe2481e8402884021254933aa",
+      "title": "故宫博物院老年人门票优惠与预约规则",
+      "category": "elderly_ticket",
+      "source_name": "故宫博物院官方导览与票务政策",
+      "source_url": "https://www.dpm.org.cn/Visit.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/palace_museum_elderly_discount.md",
+      "file_sha256": "8f314906990e6ef69815eaef7d68290768b02d8315cb7ae42feacf5ac20659c4",
+      "chunk_uids": [
+        "0d3741bc50c4adbbe827278e0cb2ed5def37be441d93d857fe48caf5faa1db53"
+      ]
+    },
+    {
+      "document_id": "c8602b33192cd10584b9f8570778636c",
+      "title": "深圳市老年人政府投资景区优惠政策",
+      "category": "elderly_ticket",
+      "source_name": "深圳市福田区民政局政策答复",
+      "source_url": "https://www.szft.gov.cn/msfw/shbz/cjwt/content/post_12619084.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/shenzhen_elderly_scenic_policy.md",
+      "file_sha256": "80174629b72126afbec3099c39b7460ecff7040b50858366e0fb20d17dc20bca",
+      "chunk_uids": [
+        "385357b5b6d20e55dd8ead30bf908210a63ff1c6e2d3117186ecc3d8f2d70396"
+      ]
+    },
+    {
+      "document_id": "9e43b2fdef7ef687c6bbed4adabc531d",
+      "title": "武汉市景区老年人门票分类优惠说明",
+      "category": "elderly_ticket",
+      "source_name": "武汉市人民政府和武汉市文化和旅游局",
+      "source_url": "https://www.wuhan.gov.cn/hdjl/lxgs/202106/t20210622_1724836.shtml",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/wuhan_elderly_scenic_policy.md",
+      "file_sha256": "285cfd995beda1b93be32a45b8e80ee1351b301f24ec0711df98167907f80943",
+      "chunk_uids": [
+        "e976c55f030d6cdb3e01c41556357483365df7f2b98547244912bb4376a9402e"
+      ]
+    },
+    {
+      "document_id": "19fb48800d958f3798bfbb047df2c791",
+      "title": "民航客舱安全带紧急出口与行李架须知",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217600.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_cabin_safety_seatbelt_exit.md",
+      "file_sha256": "654b955b6c2ef5843c51c5bcc6a314fa5ca41fd27820b9f4449222a88ac48da0",
+      "chunk_uids": [
+        "8455a4f5618aa67c4a3b2c362e98f5f71a62ff6a72324828416cd4030f78fde4"
+      ]
+    },
+    {
+      "document_id": "90311f507c3d3961068144b9b6f10313",
+      "title": "民航托运行李包装与贵重物品注意事项",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_checked_baggage_valuables.md",
+      "file_sha256": "ef36049c9259f1af9e472eec30f540483aaec8fdf8078283de71934e93a2375d",
+      "chunk_uids": [
+        "1fc8da816529a80c6415db8c0ae9ca2cb95ae3c0c7cf4cbf5b643bb625bd9c16"
+      ]
+    },
+    {
+      "document_id": "792bc91a74e8548eea640c465d6204ef",
+      "title": "民航液态物品化妆品药品与酒精饮料规则",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局航空旅行常识",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_liquids_alcohol.md",
+      "file_sha256": "e5441013ed98d088c7260d4cde04e981e38691c0a58ebcb0abe0ba51cac56a7f",
+      "chunk_uids": [
+        "5c82f39b6579876bcfae28cf419620cf3602e14628a4c4396839eab059ca1bfd",
+        "eb6c0e8885ff7c295366753710177a66299350e2124d474d1b10602b680c1e86"
+      ]
+    },
+    {
+      "document_id": "c30125f4d938ac06ec2f60ebdbd411b3",
+      "title": "民航锂电池与充电宝额定能量携带规则",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局航空旅行常识",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_lithium_power_limits.md",
+      "file_sha256": "191a37b58a082b2c6f1de7a3af6995e9fa53ffad2bc960bbd66f9392874a4c20",
+      "chunk_uids": [
+        "eef5a59fb2105a2f74f4e0970918a5969dcec75b163f850343ec96333bc66461",
+        "dea0a8ba17a2413efa290042efc44018e00c2fe846a922b120d0ec29bf45e8b6"
+      ]
+    },
+    {
+      "document_id": "aca2d98c3b6e766a5ddfb8fff5cf4a03",
+      "title": "境内航班充电宝CCC标识与召回型号限制",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局充电宝安全通知",
+      "source_url": "https://www.caac.gov.cn/XWZX/MHYW/202506/t20250626_227805.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_power_bank_ccc.md",
+      "file_sha256": "2ac0a82a8673a137a5c6cbd8b6fc21f155a3d1569e7cc19513a9b5504c6f2847",
+      "chunk_uids": [
+        "abb9b8d641e54e739ff6b9971061249c679c4da6deeaa945f6331716a3cb614e"
+      ]
+    },
+    {
+      "document_id": "c8fd6e3f31250680ca365705ae32b3d5",
+      "title": "民航禁止与限制随身携带托运物品处理规则",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/PHONE/XXGK_17/XXGK/TZTG/201612/t20161213_41103.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_prohibited_restricted_items.md",
+      "file_sha256": "e55d76f0322c08ebc3c60c998d2c1040e06a240c4d454fc44345784d4184f2d5",
+      "chunk_uids": [
+        "f24a18db984413d00c4fe4f5c537068dc9d0df7b241449691ca7567923f6ff30"
+      ]
+    },
+    {
+      "document_id": "e49bbf2d0db022460e1c6381498da48c",
+      "title": "民航安检开包检查特殊物品与暂存处理",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/XXGK/XXGK/MHGZ/201610/t20161028_40361.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_security_check_disposal.md",
+      "file_sha256": "5f950aa7cf4ed1b77aad7d654012690b66f3bb7d65b70871d5ca87c2ad3618fd",
+      "chunk_uids": [
+        "6d986927ce4597b4ad1c21e630401948df1fd67d098be851cd1f81ed9a5ce6e7"
+      ]
+    },
+    {
+      "document_id": "6f56d4dbfbed03bec54f5ef96ec3f848",
+      "title": "2026年民用航空法旅客安检与客舱秩序要点",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/XXGK/XXGK/FLFG/202512/t20251227_229597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/civil_aviation_order_rules_2026.md",
+      "file_sha256": "246e5fd4f3f459c6c4ecc941f8ea44f3703453353e83d03d537255686a65025d",
+      "chunk_uids": [
+        "73a2b505e07c4b9320aea16255ac556812913fde9c0177b7436ab054566a3a8c"
+      ]
+    },
+    {
+      "document_id": "e59f6ddf7258d30eb9423fc91a9c53ee",
+      "title": "国内航班乘机安全与充电宝提示",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局乘机安全信息",
+      "source_url": "https://www.caac.gov.cn/",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/flight_safety/flight_safety_notice.md",
+      "file_sha256": "ca29865ca6f93d13730d6ee7201e0b139f129184c86413c3e44891c1ecaa9619",
+      "chunk_uids": [
+        "1f2a355e9f6c3929c4258805867235d3c2512a295f981d3c320f976ad48cec79"
+      ]
+    },
+    {
+      "document_id": "838e91197c325c2ada9f13d6ad3c70d1",
+      "title": "高铁乘车与行李安全须知",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306行程信息提示及禁限带目录",
+      "source_url": "https://kyfw.12306.cn/otn/view/ticket_notice.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/highspeed_rail_safety/highspeed_rail_notice.md",
+      "file_sha256": "90952a6d404f9e5cb80168ca9842b02b18d4325a4c595461f7f6d60796d2cab4",
+      "chunk_uids": [
+        "3282d8da127beee3d3927e5821b38996788ddf127ba23548e4e6d791ddd90a8d"
+      ]
+    },
+    {
+      "document_id": "034e091e8796fe790825ea88989d9528",
+      "title": "高铁随身携带品重量尺寸与特殊物品规则",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/luggage.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_luggage_size_weight.md",
+      "file_sha256": "626b6d3f4e92be93b8945d039d9e71d17322263f5f2e0636824a409d5bd253a0",
+      "chunk_uids": [
+        "2209f9f8e1b89ac274c60d9205838c964cdf05aa10483b851aa33ebc7a59261e"
+      ]
+    },
+    {
+      "document_id": "c7ba8ebca63c8553bbfd045eb3ccf34d",
+      "title": "铁路旅客站台与动车组乘车安全须知",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/onboardSecurityInctruction.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_onboard_safety.md",
+      "file_sha256": "71f9f386035f2174e94ac83f6bfa0f98c6a5378a73e222f664af02678270fada",
+      "chunk_uids": [
+        "30e717d4c3784f848a37a0decdf6330ebd9a4f158c972e3ec1869d283c98cec7"
+      ]
+    },
+    {
+      "document_id": "744040f79ed56f976b572eb151d8b818",
+      "title": "铁路特殊重点旅客预约服务规则",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/view/icentre_qxyyInfo.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_priority_passenger_service.md",
+      "file_sha256": "cc01cd4ee2b8ad52fa1bab59d03d409b0081ad934fdfabb1297628526671d6d9",
+      "chunk_uids": [
+        "bff6be426a8893118a0ca73b94bf43a7ad7f1a6e8f0825ebc6180807230438e2"
+      ]
+    },
+    {
+      "document_id": "03df5ce8aad09d7146614bd3e0fa0ec0",
+      "title": "铁路旅客禁止限制携带和托运物品目录要点",
+      "category": "highspeed_rail_safety",
+      "source_name": "国家铁路局公安部禁限带物品目录",
+      "source_url": "https://www.12306.cn/mormhweb/zxdt/202206/t20220617_37625.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_prohibited_limited_items.md",
+      "file_sha256": "118374ae2dd414ddeaf55159c0c7ed1aab75040e16a733cc94254298186ffc4b",
+      "chunk_uids": [
+        "4ff580f16bda08538b359d2cd3f8f66c9bd11b5460d812a8414ef42e20cf97f8",
+        "3093e20f15ade84e3480035f2f09e368f3d2d14780ee2bef630269f294199578"
+      ]
+    },
+    {
+      "document_id": "162ffb07c621d8d28c2b8114e706c664",
+      "title": "动车组禁烟用电与车内安全规则",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/railwayService.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_smoking_power_safety.md",
+      "file_sha256": "7cb2c47ea18568d6dacc4c74eb096f43b05cac4e0bdb462cc947cee16cec0c4c",
+      "chunk_uids": [
+        "099ee1c36a634186b7a6776f09bcfae60c8cc924536a6e43c3d1a614675a92a2"
+      ]
+    },
+    {
+      "document_id": "7b2ca9d359df74475e5a8dd3c9f10f62",
+      "title": "铁路实名制证件与临时乘车身份证明",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/realNameTicket.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_temporary_identity.md",
+      "file_sha256": "449a16bec3f8894ec4fc75d81f5a9bd595a32bc84e077130f8d24ab5d3faa0f7",
+      "chunk_uids": [
+        "6254a5aa0ecb8bebf8cf21c0c1f2affbdfc1644564f8d9ebf5c040517a9599e4"
+      ]
+    },
+    {
+      "document_id": "0ed8fa48aae067a0d5fe3a54d127ab44",
+      "title": "丹霞山2026年学生与毕业生门票优惠",
+      "category": "student_ticket",
+      "source_name": "丹霞山风景名胜区官方网站",
+      "source_url": "https://dxs.sg.gov.cn/zwgk/bmwj/content/post_2801349.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/danxia_student_discount_2026.md",
+      "file_sha256": "fb6f5e968e6ba622a894507d6472eeda2643a4435082c3b6df717770bb5b31e4",
+      "chunk_uids": [
+        "0b6b5828854b117f142825b9431bb812907fb7f2cc31a57442265f4ad17bc78a"
+      ]
+    },
+    {
+      "document_id": "0051dda99bae308226e8d00d0f8bbaf6",
+      "title": "广州市政府指导价景区学生门票优惠规则",
+      "category": "student_ticket",
+      "source_name": "广州市发展和改革委员会",
+      "source_url": "https://fgw.gz.gov.cn/gkmlpt/content/10/10424/post_10424266.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/guangzhou_scenic_student_discount.md",
+      "file_sha256": "58000159cb7d7991f610fd8f7d5a37251c6134e6e9456d6af2cd8a6d8ff3b0d5",
+      "chunk_uids": [
+        "4256dc60f2b0c906b0ed452d2559dc1ab51cfc57c5c296a997f0dabeef22cc8f"
+      ]
+    },
+    {
+      "document_id": "8c56475a3af8e062bf66269174906455",
+      "title": "铁路学生优惠票使用区间席别和票价优化规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306学生旅客购票优惠措施",
+      "source_url": "https://www.12306.cn/mormhweb/zxdt/202508/t20250815_44642.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_2025_optimization.md",
+      "file_sha256": "2d4b81f045cfec0131ec62a00d07a5cf132212d106ad7674fca2f0b35724e32a",
+      "chunk_uids": [
+        "cd209225715e78c7507e65119261f3c3aa0f631fc9c38fc2435da5de5da235be",
+        "aad3e026a121bf8b41ccdc87ccfa0454e2157ba184e11b0a0d61fa57119bfaa9"
+      ]
+    },
+    {
+      "document_id": "efbdd28cb27760cfc33d3f9872dd1e85",
+      "title": "铁路学生优惠票适用人群与证明材料",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_eligibility_materials.md",
+      "file_sha256": "ed1d863458af3c4d5dacb69d16500393aaed88f8ef71be6fa8d3c22cdbca2783",
+      "chunk_uids": [
+        "4d6e1ee818f693c4ebdbb2e9f64ddd658b1d6f561b226ac3f841822d63cbdac8"
+      ]
+    },
+    {
+      "document_id": "6666a61cc570f0d7204af781311d687b",
+      "title": "铁路学生票优惠区间次数与联程规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306",
+      "source_url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/studentInstruction/student-ticket-instruction.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_interval_frequency.md",
+      "file_sha256": "fb15d75a243087d108bfd7434b6631f01628f2a5147be87544d5d490ea4728d9",
+      "chunk_uids": [
+        "52464ee998069cef838e79f891e2c12aabe94d3363e051e685adc04b0c47b338"
+      ]
+    },
+    {
+      "document_id": "fb767894f15d3ab75f4f960cb1f8c00e",
+      "title": "铁路新生凭录取通知书购买学生优惠票规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306学生票常见问题",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_newcomer.md",
+      "file_sha256": "d11bdaef7c2419bd5581e20efc3ab224f427d7903532a32922cfe14c2c642eed",
+      "chunk_uids": [
+        "1110d4dd562d60c9b1ed7346841d84a882d9febbf225ea10d333d906ab9cac0e",
+        "e9e076fa1649bb8c996b7a830aee69f4bb0152fe7028cb853f88345ca0225b0a"
+      ]
+    },
+    {
+      "document_id": "7be2340d894ae82147953ec886ded9b7",
+      "title": "铁路学生优惠资质核验与进站规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_qualification_entry.md",
+      "file_sha256": "9944ca593e1519249fa7f6f310d9c12877e929d80a4b71db449871463629114a",
+      "chunk_uids": [
+        "80f6430d361dfbd95fe059f8361cffdfe1467768b316e51e27bfeee209aa6311"
+      ]
+    },
+    {
+      "document_id": "56e3aeecc57c4d6b0bad441be7d5d33a",
+      "title": "铁路学生优惠票规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306学生优惠票说明",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/student_ticket/railway_student_ticket.md",
+      "file_sha256": "595b6bf51f180375455bc4fc8f9a3648c1322d3d422568d357e1a91e6e747af8",
+      "chunk_uids": [
+        "f15ee74d3988fcccea980983b1cea1616328f3cbf1f6c3de1f32d071ee4dfd36"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "document_id": "35c530d7a48d8c12141a61206b177fbb",
+      "title": "成都博物馆参观安全与文明须知",
+      "category": "attraction_notice",
+      "source_name": "成都博物馆官方网站",
+      "source_url": "https://www.cdmuseum.com/zhinan/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/chengdu_museum_visit_safety.md",
+      "chunk_uid": "5d80b3cfde9b7d8a9a568aa1a58d6f9b4cc40bf65ea5ee9b77ab2006bbb47361",
+      "chunk_index": 0,
+      "content": "# 成都博物馆参观安全与文明须知\n\n## 特殊人群陪同\n\n幼童、高龄老人、行动不便者和身体有潜在疾病的观众，应由监护人或同行人员陪伴入馆。若需要无障碍或其他帮助，可向馆内咨询台工作人员提出。\n\n## 馆内安全\n\n馆内禁止吸烟、奔跑和大声喧哗，展厅内不得饮食。不得使用轮滑、轮式鞋、滑板、儿童自行车或儿童电动车等代步工具。部分展厅灯光较暗，参观时要留意围栏和地面状况。\n\n严禁翻越护栏、触摸展品或损坏设施。允许拍照的展览也不得使用闪光灯、自拍杆和脚架。乘坐电梯、扶梯时应有序通行，不得逆行、停留或嬉戏打闹，非紧急情况不得触碰紧急停止按钮。\n\n如遇突发事件，应听从现场工作人员引导，按指定线路有序撤离。开放及预约规则以成都博物馆最新公告为准。",
+      "content_hash": "d2f7304da0b53844a946d057400e6f585d9bbfb2446b73b0dcd052103a0cb97c",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "64b953be6133c5263ac53d6e42a28a30",
+      "title": "中国国家博物馆预约与入馆须知",
+      "category": "attraction_notice",
+      "source_name": "中国国家博物馆官方网站",
+      "source_url": "https://www.chnmuseum.cn/cg/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/china_national_museum_booking.md",
+      "chunk_uid": "24e2917b67997242698d82756bcc0320359f629c243b631a2781fdd011a6ab4f",
+      "chunk_index": 0,
+      "content": "# 中国国家博物馆预约与入馆须知\n\n## 开放与预约\n\n中国国家博物馆实行免费实名预约参观。常规开放时间为每日9:00至17:00，16:00停止入馆，周一闭馆，法定节假日除外；客流高峰期的延时开放和停止入馆时间以官网最新公告为准。\n\n观众可通过国家博物馆官网、官方预约小程序、微信小程序或微信公众号预约。预约通常可提前7日办理，并按系统提供的入馆时段选择。未满14周岁的未成年人应由成年人代为预约，并与预约人同步核验入馆。\n\n## 入馆核验与安全\n\n参观当日应携带预约时使用的本人有效证件原件和预约成功信息，按预约时段从指定入口核验。未预约、证件信息不一致或错过预约时段可能无法入馆。\n\n60周岁及以上老人、残障人士等符合条件的观众，也需要完成预约，再按现场规定使用绿色通道。参观中如身体不适、与同行人员走散或遇到突发情况，应联系工作人员，并按照疏散标识和现场指挥行动。",
+      "content_hash": "c3ceb8b85b5901cbf8fc1d391e388825946117af078a6722c3f4fdb30844150c",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "64b953be6133c5263ac53d6e42a28a30",
+      "title": "中国国家博物馆预约与入馆须知",
+      "category": "attraction_notice",
+      "source_name": "中国国家博物馆官方网站",
+      "source_url": "https://www.chnmuseum.cn/cg/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/china_national_museum_booking.md",
+      "chunk_uid": "32a972da2866970cdf4cbea841c8343aa3f5e83119f2c886c02f58d9d8cd9e25",
+      "chunk_index": 1,
+      "content": "具体开放安排、预约额度和临时闭馆信息以中国国家博物馆最新公告为准。",
+      "content_hash": "e7f39aed1360f138e0759eed353ddde9951df957820fa9029fbbdaf59adbe963",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "ddea9895a0be8a972dca89ba59e8c025",
+      "title": "旅游景区通用安全注意事项",
+      "category": "attraction_notice",
+      "source_name": "文化和旅游部旅游景区安全提示",
+      "source_url": "https://mct.gov.cn/wlbphone/wlbydd/xxfb/jiaodianxinwen/202301/t20230123_938778.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/attraction_notice/general_attraction_safety.md",
+      "chunk_uid": "c692c80212cfd9c6c42882caeea64aac57a66c345e0c322d4a2037a3fbb696db",
+      "chunk_index": 0,
+      "content": "# 开放与预约\n\n出发前应查看景区官方网站或官方账号发布的开放时间、预约方式、客流限制、天气预警和临时关闭信息。到达后遵守景区公告、警示标志和工作人员指引。\n\n# 危险区域\n\n不要进入未开发、未正式开放或缺乏安全保障的区域。游览时应远离濒水、崖边、河道等危险位置，不翻越护栏，不偏离开放游览线路。\n\n# 高风险项目\n\n参与高空、高速、水上、潜水等项目之前，应结合年龄、身体健康和项目限制谨慎判断，并在专业人员指导下使用安全设备。老人、未成年人和其他需要特别照顾的游客应确认项目适用条件。\n\n# 天气和应急\n\n关注暴雨、雷电、高温、大风、冰雪和地质灾害预警。遇到恶劣天气、拥挤或突发情况时保持冷静，立即停止危险活动并服从疏导。具体景点限制以景区当日公告为准。",
+      "content_hash": "5fbb840c7fb432d3bca28918af7fefe3b30adc9354f7c781415d2f2b9f081ed9",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "3f8217690425497c5df89c7a31286f65",
+      "title": "汛期暑期景区与户外旅游安全提示",
+      "category": "attraction_notice",
+      "source_name": "文化和旅游部汛期暑期出游提示",
+      "source_url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/jiaodianxinwen/202406/t20240627_953746.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/mct_flood_season_safety.md",
+      "chunk_uid": "90f8b367c4aa06155cdfa5e9093dbf4ee47c6af2725eb2cdf8b0cb1d58f98d62",
+      "chunk_index": 0,
+      "content": "# 关注预警与开放状态\n\n汛期和极端天气期间，应密切关注目的地及沿途天气、气象和地质灾害预警，提前确认景区是否开放。收到景区关闭、转移或避险提示时，应立即调整行程，不冒险进入。\n\n# 山区河谷风险\n\n在山区、峡谷和河谷游览时，需要防范山体滑坡、落石、泥石流和山洪等风险。不要在河道、泄洪通道、陡坡、崖边或没有安全设施的区域停留、露营和拍照。\n\n# 防暑防雷防雨\n\n暑期应准备遮阳、防暑、防雷和防雨用品，及时补水并安排休息。高温时减少长时间户外活动；雷雨天气远离孤立高点、大树和水边，不前往未开发开放区域。\n\n# 行程决策\n\n景区预约成功不代表恶劣天气时一定开放。临时关闭、限流和项目停运应以景区当天公告和现场管理为准，必要时优先取消行程并办理官方渠道退改。",
+      "content_hash": "8d89a64a1be361f34b3d9c2dc120a136b18692d3c99c0d08bc892f961b367be3",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "8de332f476d73e61d1381d9a57df5332",
+      "title": "文化和旅游部旅游安全八项提示",
+      "category": "attraction_notice",
+      "source_name": "文化和旅游部旅游安全提示",
+      "source_url": "https://www.mct.gov.cn/ggfw/cxts/202602/t20260212_964704.htm",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/mct_travel_safety_2026.md",
+      "chunk_uid": "73faafc200d59e6310731d8f65a3f4891ebc3f516b9ffa2ec5e63bb69c8f29d5",
+      "chunk_index": 0,
+      "content": "# 出发前准备\n\n出发前应查询目的地天气、道路交通、景区开放状态和风险提示，根据预警及时调整行程。通过景区和政府部门官方渠道确认开放区域，不轻信非官方路线推荐。\n\n# 未开发区域\n\n不要前往未开发、未开放或缺乏安全保障的区域，不进入所谓“野景点”。参加团队旅行时不要擅自离团，户外活动应遵守警示标志和现场管理。\n\n# 交通与涉水安全\n\n乘坐车辆应系好安全带，乘船和参加涉水活动应按要求穿着救生衣。不要乘坐无合法资质、超员或安全设施不完整的交通工具。\n\n# 高风险项目与天气\n\n参加高空、高速、潜水、漂流等项目时，应结合年龄、健康状况和项目限制量力而行。山区、河谷等区域遇到天气变化应及时撤离或调整行程，并注意室内外消防安全。",
+      "content_hash": "a48f4501ba0415a548034533d78af448577d6aa1f80b488d02971e6b4e5d0a76",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "75c330b2b3ed05ee8968cd4ee0427dfd",
+      "title": "国家自然博物馆实名预约与爽约规则",
+      "category": "attraction_notice",
+      "source_name": "国家自然博物馆官方网站",
+      "source_url": "https://www.nnhm.org.cn/cgzx/cgxx/index.shtml",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/national_natural_history_museum_booking.md",
+      "chunk_uid": "6759987f67a56fe72efbc0109ee6d16fb9994ecb8d88b1753fe3f9bc96542eaf",
+      "chunk_index": 0,
+      "content": "# 国家自然博物馆实名预约与爽约规则\n\n## 预约要求\n\n国家自然博物馆实行限量、预约、错峰开放。个人和团体应通过官方网站或官方微信公众号按公布时间预约，现场通常不接受临时预约。老人和儿童也需要提前预约。\n\n预约采用实名制。未办理身份证的儿童可按馆方规定使用居民户口簿、医保卡等证件；外籍及港澳台观众应携带预约时使用的护照或通行证等原件核验入馆。\n\n## 时段和爽约\n\n观众须在预约的有效时段到馆，错过时段可能被谢绝入馆。如无法到馆，应在官方规定的截止时间前退票。累计爽约达到馆方规定次数后，账号可能在一定期限内无法继续预约。\n\n闭馆日、暑期调整、预约放票时间以及证件要求可能变化，出发前应再次查看国家自然博物馆官方参观信息。",
+      "content_hash": "e5a6be8a29ca949b06be286fbf28d34748624212093ff3ca80b290ed14e2c4f4",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "6d506e582321dab56b384aa78cfe4c89",
+      "title": "故宫博物院预约检票安检与参观路线须知",
+      "category": "attraction_notice",
+      "source_name": "故宫博物院参观须知",
+      "source_url": "https://www.dpm.org.cn/singles_detail/259831.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/palace_museum_visit_rules.md",
+      "chunk_uid": "4b535cdb4ffd65d5f5c80f17652afe41fbeb7f40f88142f8708f6912e36d96c6",
+      "chunk_index": 0,
+      "content": "# 官方预约\n\n故宫博物院未授权第三方代理门票和展览预约，应通过“故宫博物院”官方小程序办理。故宫不售当日票，门票和展览通常在参观前7日20:00开放预约；除法定节假日外，周一闭馆。\n\n# 实名检票\n\n所有观众，包括优惠票观众和陪护人，都需要实名预约。参观当日应携带预约使用的有效身份证件原件，并按预约的上午或下午时段检票。票种、日期、时段和参观人员通常不能直接改签，应按官方退订规则重新办理。\n\n# 入口与路线\n\n午门是观众参观入口，参观结束后从神武门或东华门离院，整体实行南向北单向参观。应结合天安门地区安检和步行路线预留到场时间。\n\n# 安检和寄存\n\n入院前须接受安全检查，禁止携带物品按故宫官方目录执行。大型行李可以按现场标准寄存，现金、电脑、首饰等贵重物品以及易燃、易爆、易碎、有异味物品和食品不属于普通寄存范围。\n\n# 临时变化",
+      "content_hash": "46236c7d3ea9e7f936cf7ce54c18c8367d2317ebc871a96fc802d409d1e5b682",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "6d506e582321dab56b384aa78cfe4c89",
+      "title": "故宫博物院预约检票安检与参观路线须知",
+      "category": "attraction_notice",
+      "source_name": "故宫博物院参观须知",
+      "source_url": "https://www.dpm.org.cn/singles_detail/259831.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/palace_museum_visit_rules.md",
+      "chunk_uid": "818e07d55a63ecda718698f4007a7ce330972ece955be4829aa02b47562f8a2d",
+      "chunk_index": 1,
+      "content": "重大活动、极端天气或文物保护需要可能导致临时闭馆、区域关闭或调整开放时间。参观前应再次查看故宫官网和小程序公告。",
+      "content_hash": "90bdb7afc480332c68d31e822969a604169ca7eea686bb4d4a63981f468de380",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "3eb6c7053a7e5c8d76a1cbb2356ad58f",
+      "title": "秦始皇帝陵博物院预约与游览时间须知",
+      "category": "attraction_notice",
+      "source_name": "秦始皇帝陵博物院官方网站",
+      "source_url": "https://www.bmy.com.cn/guide/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/qinling_museum_visit_guide.md",
+      "chunk_uid": "2873c25c0e3750ea7684c2e75c05b6724bb442613c6190a964e2e97999319594",
+      "chunk_index": 0,
+      "content": "# 秦始皇帝陵博物院预约与游览时间须知\n\n## 实名预约\n\n秦始皇帝陵博物院实行实名制预约参观，包括政策性免票人员、港澳台及外籍观众。应通过博物院官方网站或官方微信公众号预约，参观当日携带预约使用的有效身份证件原件，在指定通道核验。\n\n全日制大学本科及以下学历学生购买学生优惠票后，还应携带符合要求的学生证，通过学生票专用通道核验。每日客流达到最大承载量后可能停止售票。\n\n## 游览安排\n\n博物院由秦始皇兵马俑博物馆和秦始皇陵考古遗址公园（丽山园）组成，两处参观各需约1.5小时，可按现场安排乘坐摆渡车往返。旺季、淡季开放时间和停止检票时间不同，应为换乘、安检和步行预留时间。\n\n临时闭馆、最大承载量、优惠资格和检票时间以秦始皇帝陵博物院当日官方公告为准。",
+      "content_hash": "a7b2194b3a07cbd843295be699e990b0f247ffad8be20cb5bb3ce4da46e99def",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "7dc61375ae6999decf1a67969218e99e",
+      "title": "上海博物馆预约与文明参观须知",
+      "category": "attraction_notice",
+      "source_name": "上海博物馆官方网站",
+      "source_url": "https://www.shanghaimuseum.net/mu/frontend/pg/service/admission",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/attraction_notice/shanghai_museum_visit_rules.md",
+      "chunk_uid": "67e73034e62652b88530ed2a9eaef8b14826f2510d603c13add6d854d19bc7fb",
+      "chunk_index": 0,
+      "content": "# 上海博物馆预约与文明参观须知\n\n## 预约安排\n\n上海博物馆的预约要求会根据工作日、双休日、法定节假日、寒暑假和热门特展进行调整。实行预约制时，个人观众可通过官网、微信公众号等官方渠道预约；20人及以上团队应按照官网公布的团队预约方式提前办理。\n\n不能使用智能设备的特殊人群，可按现场公示寻求预约协助。遇馆内客流较大时，博物馆可能控制入馆速度或进行现场疏导，建议按预约时间到馆并合理控制参观时长。\n\n## 参观注意事项\n\n参观时请勿触摸文物展品、奔跑或大声喧哗，展厅、走廊和大堂等区域禁止饮食。馆内拍照不得使用闪光灯、自拍杆或支架类摄影器材；有版权限制的展览应遵守现场禁止拍照标识。\n\n酗酒、衣冠不整、无监护人陪同的无民事行为能力人员以及携带宠物者可能被谢绝入馆。开放时间、预约规则和特展要求以参观当日上海博物馆官方公告为准。",
+      "content_hash": "f56b257846bf0d6a07c793c2ba52ee7675bd360059553f61f792eea59f648a10",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "d9eb9fd948a39c79baa4fa594c46bf3b",
+      "title": "国航儿童婴儿优惠票退改规则",
+      "category": "child_ticket",
+      "source_name": "中国国际航空公司官方网站",
+      "source_url": "https://www.airchina.com.cn/zh-CN/content/trans_conditions/refund/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/airchina_child_infant_refund_change.md",
+      "chunk_uid": "e2335d4d04f7c088e3234e7a7d96a15c58416b0bdcbeb0a4c2b7f555882ac8da",
+      "chunk_index": 0,
+      "content": "# 国航儿童婴儿优惠票退改规则\n\n## 优惠票价\n\n国航国内客票规则中，按成人适用普通票价购买的儿童优惠票通常按相应全价的50%计收；婴儿票通常按相应成人普通票价的10%计收。实际销售价格、舱位和税费以购票页面及适用运价规则为准，市场折扣票不一定比儿童五折票更贵。\n\n## 变更与退票\n\n儿童优惠票办理自愿变更时，按国航公布的儿童优惠票规则处理；自愿退票通常适用相同舱位等级的成人退票规定。无成人陪伴儿童客票涉及变更承运人时存在额外限制，仍需无陪服务的，应同步确认新航班能否继续提供服务。\n\n婴儿优惠票、自愿签转、变更和退票的具体费用可能随运价规则调整，办理前应以原客票适用条件和国航最新公告为准。",
+      "content_hash": "184b0ed3f785907fe3961bcd95a77bfa9b2046d72d19e9d74b519fd153eb7621",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "ea7e6dcabc0bccbbb587875cfeae331c",
+      "title": "国航儿童与婴儿旅客承运规则",
+      "category": "child_ticket",
+      "source_name": "中国国际航空公司官方网站",
+      "source_url": "https://www.airchina.com.cn/zh-CN/content/trans_conditions/lk-xlysztj2023n9yb/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/airchina_child_transport_rules.md",
+      "chunk_uid": "3875cdb2407ac2ee039668175e6e94cc552f5d0a85e5f43a528b810a7794c480",
+      "chunk_index": 0,
+      "content": "# 国航儿童与婴儿旅客承运规则\n\n## 年龄与陪同\n\n国航运输条件将旅行之日已满2周岁但不满12周岁的旅客作为儿童旅客。儿童乘机通常应有已满18周岁且具有完全民事行为能力的成人陪同，并购买与陪伴人相同舱位服务等级的客票。\n\n婴儿旅客应由符合条件的成人陪伴。婴儿年龄、早产婴儿承运条件、每名成人可携带的婴儿数量以及儿童限制装置要求，应以购票时适用的国航运输条件为准。\n\n## 无成人陪伴\n\n已满5周岁但不满12周岁的儿童单独乘机，应事先申请无成人陪伴儿童服务，经航空公司同意后购票。每个航班的承运数量有限，未提前申请可能无法成行。已满12周岁但不满18周岁的旅客单独旅行，可按国航规定自愿申请相关服务。\n\n航空公司规则可能更新，购票前应向国航核对年龄计算、航班范围、证件和申请时限。",
+      "content_hash": "e1d2f9631b813ed64a7dd619b3e7c9ea28b7f9cd57600df48c6fa489b302b748",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "0c92e872a70353e24e76629afaaa38c4",
+      "title": "南航儿童乘机证件与免费行李规则",
+      "category": "child_ticket",
+      "source_name": "中国南方航空公司官方网站",
+      "source_url": "https://www.csair.com/hk/zh/tourguide/before_ready/special_assistance/child/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/csair_child_documents_baggage.md",
+      "chunk_uid": "1836c7d24bee7af4cf1b64f23d41025d980f177289e63a099dde108a7ca208e3",
+      "chunk_index": 0,
+      "content": "# 南航儿童乘机证件与免费行李规则\n\n## 证件要求\n\n购买儿童或婴儿客票时，应使用航空公司认可的有效身份证件，例如身份证、户口簿、出生证明或护照等，并在办理乘机手续时携带与购票信息一致的证件原件。国际及地区航班还应提前核对护照、签证、出入境和过境要求。\n\n## 行李与陪护限制\n\n按相应儿童票价付费的儿童，可享受所持客票票价等级对应的免费行李额。婴儿票的行李、婴儿车和安全座椅运输规则，应按具体航线和客票条件查询。\n\n携带儿童或婴儿的成人必须具备照料能力。成人同时申请担架、轮椅或无陪老人等特殊服务时，可能不能再承担儿童陪护责任。每名成人可携带的儿童和婴儿数量也受安全限制，超出时需提前向南航申请。",
+      "content_hash": "ab016699eec52c2dc8d2c34f467a745e9e3f372b3165df6654e2f210a3c88654",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "5500f98a8831b1e5917ce874592e363f",
+      "title": "南航儿童票与婴儿票基本规则",
+      "category": "child_ticket",
+      "source_name": "中国南方航空公司官方网站",
+      "source_url": "https://www.csair.com/hk/tc/orders/order/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/csair_child_infant_ticket_rules.md",
+      "chunk_uid": "28f084e36238cec93f3f9cbef4aa62ae6e754a01c13f57196a5a35fb827bed5b",
+      "chunk_index": 0,
+      "content": "# 南航儿童票与婴儿票基本规则\n\n## 儿童票\n\n南航境内运输旅客须知中，旅行开始之日已满2周岁、未满12周岁的儿童，在符合陪同条件时可按儿童票规则购票并获得座位。按普通票价计收时通常为同行成人普通票价的50%，但实际可售票价和舱位以购票系统为准。\n\n## 婴儿票\n\n旅行开始之日未满2周岁的婴儿，通常按同行成人普通票价的10%购票且不单独提供座位；如需单独占座，应按规定购买儿童票并使用符合要求的儿童限制装置。婴儿和年龄较小的儿童必须由具备陪护能力的成年人陪同。\n\n成人可携带的儿童和婴儿人数、婴儿载运数量以及特殊健康条件均可能受航班安全限制。订票前应如实申报儿童或婴儿信息，并以南航确认结果为准。",
+      "content_hash": "ead9a43b9c9e4afce151fe28018c534db8d8212c06f02d26fcb7491da8017c3b",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "5b17ea6268bd1535b8d7ac69553c8c50",
+      "title": "南航无成人陪伴儿童服务规则",
+      "category": "child_ticket",
+      "source_name": "中国南方航空公司官方网站",
+      "source_url": "https://www.csair.com/hk/zh/tourguide/before_ready/special_assistance/child/",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/csair_unaccompanied_child_service.md",
+      "chunk_uid": "fa0f14b3d7b352170ef0663a80af1ddec85560d5b037fac20b86eb2bb18345df",
+      "chunk_index": 0,
+      "content": "# 南航无成人陪伴儿童服务规则\n\n## 适用年龄与航班\n\n旅行之日已满5周岁但未满12周岁、没有符合条件的成年人在同一舱位陪伴的儿童，单独乘坐南航航班时必须申请无成人陪伴儿童服务。未满5周岁的儿童不能作为无成人陪伴儿童承运；12周岁至未满18周岁的青少年可按规则申请无陪青少年服务。\n\n服务通常适用于南航实际承运的国内、国际及地区直达航班，具体航班范围和中转限制应由南航确认。国内航班一般应至少提前24小时申请，国际及地区航班一般应至少提前48小时申请，且每个航班名额有限。\n\n## 接送与证件\n\n监护人需按要求填写申请书，提供出发地送机人和到达地接机人的身份及联系方式。送机人应在机场等候至航班起飞，接机人须携带有效身份证件办理交接。\n\n改签航班后，如仍需无陪服务，应重新确认和申请。票价、服务费、申请渠道及办理时限以南航最新规则为准。",
+      "content_hash": "5216e4d42f61db8d3afd992811b587b8516be5245956b3ef814d336178f5baab",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "12491fa20fa8d2e45ddf8d1e0430757f",
+      "title": "铁路儿童优惠票与免费乘车规则",
+      "category": "child_ticket",
+      "source_name": "中国铁路12306《铁路旅客运输规程》",
+      "source_url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/transportationRules.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/child_ticket/railway_child_ticket.md",
+      "chunk_uid": "8c8d62de380c08818806070d4671dbd24a38d30c7a292ce3aadb98573fe1fe94",
+      "chunk_index": 0,
+      "content": "# 适用年龄\n\n随同成年人乘车的儿童，年满6周岁且未满14周岁的，应当购买儿童优惠票；年满14周岁的，应购买全价票。每一名持票成年人可以免费携带一名未满6周岁且不单独占用席位的儿童，超过一名时，超过人数应购买儿童优惠票。\n\n# 购票与证件\n\n儿童年龄按乘车日期计算。购票时应使用儿童本人的有效身份证件；儿童没有有效身份证件时，可按铁路现行规则使用同行成年人的有效身份证件信息申明免费乘车儿童。免费乘车儿童也应在购票时提前申明。\n\n# 单独旅行\n\n除需要乘坐旅客列车通勤上学的学生，以及铁路运输企业同意在旅途中监护的儿童外，未满14周岁的儿童应当随同成年人旅客旅行。\n\n# 提醒\n\n儿童优惠票不是按身高判断。具体车次、跨境线路和最新执行要求，应以铁路12306和车站公告为准。",
+      "content_hash": "ca11a67768bff3479a181efcc0f82c8f3b18c787b3ca6b793eecfaf6e0c7f3c2",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "83f8827a37614fd1a18de90258455ce9",
+      "title": "铁路儿童优惠票与免费乘车常见问题",
+      "category": "child_ticket",
+      "source_name": "中国铁路12306儿童票常见问题",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/children.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/child_ticket/railway_child_ticket_faq_12306.md",
+      "chunk_uid": "3273abde59af18b3a5440f2fc461a49ab93b4942da2b7ce81381c1569541fdf5",
+      "chunk_index": 0,
+      "content": "# 年龄与票种\n\n儿童年龄按乘车日期计算。随同成年人乘车的儿童，年满6周岁且未满14周岁应购买儿童优惠票；年满14周岁应购买全价票。除通勤上学或铁路运输企业同意在旅途中监护等情形外，未满14周岁的儿童应随同成年人旅行。\n\n# 免费乘车儿童\n\n每名持票成年人可以免费携带一名未满6周岁且不单独占用席位的儿童。超过一名时，超出人数应购买儿童优惠票；免费乘车儿童需要单独使用席位时，也应购买儿童优惠票。\n\n# 申明与证件\n\n携带免费乘车儿童时，应在购票时提前向铁路运输企业申明，并使用免费乘车儿童本人的有效身份证件办理申明。申明时使用的证件也是儿童乘车时的凭证，出行时应随身携带。\n\n# 与同行成年人车票的关系\n\n儿童优惠票的乘车日期、车次和席别应与同行成年人车票一致，儿童票到站不得远于同行成年人车票到站。具体可售席别、票价和证件支持范围以铁路12306购票页面及车站核验结果为准。",
+      "content_hash": "9798710ffbfe80935d89ac011f069ffc7ce6dfe602ecfd00c8f35d01604bf67b",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "ec624fa75a04cffc3c4a85b9a28a5157",
+      "title": "丹霞山2026年老年人门票优惠规则",
+      "category": "elderly_ticket",
+      "source_name": "丹霞山风景名胜区官方网站",
+      "source_url": "https://dxs.sg.gov.cn/zwgk/bmwj/content/post_2801349.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/danxia_elderly_ticket_2026.md",
+      "chunk_uid": "87d1a19f4d819ef2f17ba5ffe4c3aaf27e0686f2218e203a9edc3e973f52b6d8",
+      "chunk_index": 0,
+      "content": "# 丹霞山2026年老年人门票优惠规则\n\n## 常规优惠\n\n丹霞山2026年门票政策规定，60周岁及以上、不满65周岁的老年人，持本人有效身份证件可按政策购买半价门票；65周岁及以上老年人持本人有效身份证件可享受景区门票免票。\n\n## 特定活动\n\n2026年重阳节相关优惠有明确活动日期，年满60周岁的老年人在活动期内凭本人有效身份证件可按公告享受门票优惠。限时活动不可推定为全年政策，出行时应核对活动是否仍在执行。\n\n优惠通常针对景区门票，景区交通、游船、保险和其他服务可能另行收费。游客应使用真实有效证件，身份信息由景区查验。政策调整、活动日期和收费项目以丹霞山最新公告为准。",
+      "content_hash": "53f1e38673766681cbd9cd88b45c13424c329581cc548055924c86909bc39564",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "8f83aa746c463c018da05a1c36087e2c",
+      "title": "老年人进入文化场馆和旅游景区的适老预约服务",
+      "category": "elderly_ticket",
+      "source_name": "文化和旅游部国家文物局适老服务通知",
+      "source_url": "https://www.mct.gov.cn/whzx/bnsj/ggwhs/202012/t20201229_920306.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/elderly_scenic_access_services.md",
+      "chunk_uid": "d1d9b44a1df19d0f9f1a4369d4a3d884859c6182d118fa219fe9d852f82066ab",
+      "chunk_index": 0,
+      "content": "# 传统预约方式\n\n需要提前预约的公共文化场馆和旅游景区应保留人工窗口、电话专线等传统预约方式，方便不熟悉智能手机操作的老年人现场或电话预约。\n\n# 代为预约\n\n预约系统应允许家人、朋友帮助老年人预约。老年人可以按场馆或景区规则，使用当日有效预约码、购票信息截图以及本人有效身份证件办理入场核验。\n\n# 现场名额与现金服务\n\n景区和文化场馆应为没有提前预约的老年人保留一定数量的免预约进入或现场购票名额，并保留现金购票方式。达到限流上限时，现场仍可能需要错峰或等待，不能理解为任何时间都保证立即入场。\n\n# 有效证件与个人信息\n\n老年人可以按照场所要求使用身份证、老年证等有效证件登记。具体预约名额、优惠票价和入场材料由各景区结合当地政策执行，出行前仍应查询目标景区最新公告。",
+      "content_hash": "ce0db3b80779d36b4804ffe856eece247ed4ad6b86eb811d2f5004cf81eed7f5",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "d754e558f912f053604ba56061f006df",
+      "title": "老年人景区门票优惠的一般政策原则",
+      "category": "elderly_ticket",
+      "source_name": "国家发展改革委景区老年人门票政策答复",
+      "source_url": "https://www.ndrc.gov.cn/xxgk/jianyitianfuwen/qgrddbjyfwgk/202107/t20210708_1288071.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/elderly_scenic_ticket_principles.md",
+      "chunk_uid": "4bee622e43174a7c44435920f4cb1207bea387f627388f16cd1854d2548ea3c4",
+      "chunk_index": 0,
+      "content": "# 没有全国统一老人票价格\n\n景区门票定价和老年人优惠由景区性质、地方政策和价格管理方式共同决定，并不存在所有景区通用的全国统一“老人票”年龄、折扣或免票标准。不同地区、景区以及索道、观光车等二次消费项目可能采用不同规则。\n\n# 政府指导价景区\n\n对实行政府指导价的景区，相关部门要求依法对老年人等特定群体落实门票价格减免优惠。各地可以结合实际扩大优惠群体或提高优惠幅度。\n\n# 市场调节价景区\n\n对实行市场调节价的景区，国家鼓励经营者为老年人提供优惠，但具体年龄、折扣、证件和适用日期由景区公布。因此不能只凭其他景区经验判断目标景区政策。\n\n# 查询与核验\n\n购票前应查看目标景区官方渠道，重点核对年龄界限、是否需要预约、有效身份证件、优惠是否只针对首道门票，以及索道、游船、观光车和专馆是否另行收费。",
+      "content_hash": "aca81b603d4e7238e1612feda9ac4ea9b4284a54512853511154de624d36bb2d",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "fda942b300d7204904c578829ab42367",
+      "title": "老年旅客票务与景区服务提示",
+      "category": "elderly_ticket",
+      "source_name": "文化和旅游部、国家文物局适老化服务通知",
+      "source_url": "https://mct.gov.cn/whzx/bnsj/ggwhs/202012/t20201229_920306.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/elderly_ticket/elderly_travel_rules.md",
+      "chunk_uid": "743aa1c979ef06337887bd2708ada7d3764a8d05d63f0f79b63f3a15b96a142e",
+      "chunk_index": 0,
+      "content": "# 是否存在统一老人票\n\n我国铁路和民航没有面向所有老年人的全国统一“老人票”价格规则。交通票价应以承运企业公布的票价和适用条件为准，不应仅凭年龄推断一定享有折扣。\n\n# 景区与文化场馆优惠\n\n景区、博物馆和文化场馆的老年人免票或优惠政策由各地和具体场所制定，年龄门槛、证件要求、预约方式可能不同。出行前应查看目标景区官方公告并携带有效身份证件或公告要求的老年证件。\n\n# 适老化服务\n\n需要预约的公共文化场馆和旅游景区应保留人工窗口、电话专线等传统方式，允许亲友代为预约，并为运用智能技术有困难的老年人提供必要帮助。具体执行情况以场所最新公告为准。",
+      "content_hash": "b9b678d15dc9557eeef2457c6d9355a8ac98fd66e7254404ce09381c286ba086",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "3637b0427a1486d259b999cc5c02df18",
+      "title": "福州老年人景区门票与代步交通优惠",
+      "category": "elderly_ticket",
+      "source_name": "福州市人民政府",
+      "source_url": "https://www.fuzhou.gov.cn/zgfzhd/znhd/sfgw/stwmjs/202404/t20240412_4808502.htm",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/fuzhou_elderly_scenic_transport.md",
+      "chunk_uid": "61314fdf3156669e53ff0a60d18e16f73990393a6d4f552845b65ad1a363430a",
+      "chunk_index": 0,
+      "content": "# 福州老年人景区门票与代步交通优惠\n\n## 门票政策\n\n福州市政府公开答复说明，福建省相关政策规定65周岁以上老年人可凭有效证件免收景区门票。\n\n## 观光车和缆车\n\n符合条件的老年人乘坐政府投资建设的国有景区观光车、缆车等代步工具，可按政策享受半价。该项优惠有景区性质和服务项目限制，不能推定所有民营景区、所有索道或所有交通项目均执行相同价格。\n\n游客应携带能够证明年龄的有效证件，并在购票前确认景区是否属于政策适用范围、是否需要实名预约，以及优惠是否仅限首道门票。最终以福建省、福州市和景区最新公示为准。",
+      "content_hash": "ec5347ac643d46febe16d00d3c3fcc3aad2bb5ef7541206fba1e0f776d15abad",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "bebfdd62b4d0077724246576f5df4439",
+      "title": "广州市政府指导价景区老年人优惠规则",
+      "category": "elderly_ticket",
+      "source_name": "广州市人民政府",
+      "source_url": "https://www.gz.gov.cn/zwgk/gzsrmzfgbn/2025/28/content/post_10612462.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/guangzhou_elderly_scenic_policy.md",
+      "chunk_uid": "e4183f497338fbda5d348d33e0d2e52d42ed2d5e80c94f3ec120c2e989b3dc32",
+      "chunk_index": 0,
+      "content": "# 广州市政府指导价景区老年人优惠规则\n\n## 门票优惠\n\n广州市景区门票管理办法规定，实行政府指导价的景区对65周岁及以上老年人凭有效证件免收门票；60周岁以上、不满65周岁的老年人凭有效证件享受门票半价优惠。\n\n上述减免主要适用于景区门票，不当然包括景区内交通运输、保险、娱乐设施、临时活动或讲解服务。实行市场调节价的景区被鼓励参照执行，但具体优惠由经营者依法公布。\n\n## 查询提示\n\n景区应在网站和收费场所公示门票种类、价格与优惠政策。老年游客应携带身份证等有效证件，并在预约时选择正确的优惠票种。地方政策或景区名单发生变化时，以广州市主管部门及景区最新公示为准。",
+      "content_hash": "761c59e27f6713cdc0a0023279acd3f65f1a9c1186fc10f822c10431add5418b",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "b964c4ba67ce7c94488890dfcaa50302",
+      "title": "河源市旅游景区老年人门票优惠政策",
+      "category": "elderly_ticket",
+      "source_name": "河源市发展和改革局",
+      "source_url": "https://www.heyuan.gov.cn/hysfgj/gkmlpt/content/0/630/post_630954.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/heyuan_elderly_scenic_policy.md",
+      "chunk_uid": "15d2e06b82e9fd9ac8f1019b0cc7e4ecefe14ac57d2fbaf29c3f5a7a992110a5",
+      "chunk_index": 0,
+      "content": "# 河源市旅游景区老年人门票优惠政策\n\n## 适用景区与年龄\n\n河源市规定，全市实行政府定价或政府指导价管理的旅游景区，对65周岁及以上老年人免收门票，对60周岁至64周岁的老年人实行门票半价优惠。\n\n实行市场调节价的景区由经营者自主定价，政策鼓励其参照执行，但不能据此直接认定所有民营景区都必须提供相同优惠。\n\n## 使用提示\n\n老年游客应携带能够证明本人身份和年龄的有效证件，并在购票前确认优惠是否仅限首道门票。景区内交通、索道、游船、讲解和临时展览等项目是否优惠，应以景区现场公示为准。\n\n该政策适用于河源市，不能作为其他城市景区的统一规则。具体执行以河源市主管部门和景区最新公告为准。",
+      "content_hash": "28858f58ba5e631709aad7628e0616e588b1544971b6b8c5d67f6c67100b26d5",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "b3b046ebe2481e8402884021254933aa",
+      "title": "故宫博物院老年人门票优惠与预约规则",
+      "category": "elderly_ticket",
+      "source_name": "故宫博物院官方导览与票务政策",
+      "source_url": "https://www.dpm.org.cn/Visit.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/palace_museum_elderly_discount.md",
+      "chunk_uid": "0d3741bc50c4adbbe827278e0cb2ed5def37be441d93d857fe48caf5faa1db53",
+      "chunk_index": 0,
+      "content": "# 大门票优惠\n\n60周岁以上（含60周岁）老年人凭本人有效身份证件原件享受故宫博物院大门票半价优惠。官方页面列示旺季大门票优惠价30元、淡季20元；票价调整时应以官方预约页面为准。\n\n# 专馆优惠\n\n钟表馆、珍宝馆等需另行购票的专馆不包含在大门票内。60周岁以上老年人凭有效身份证件原件可按官方政策购买专馆优惠票，当前页面列示为5元每人。\n\n# 预约与核验\n\n享受优惠的观众也必须实名预约。参观时应携带预约使用的本人有效身份证件原件，从规定入口完成实名核验。陪护人不因陪同老人自动获得优惠，应按本人条件预约购票。\n\n# 核对提示\n\n故宫开放时间、预约时段、临时闭馆和票价可能变化，应通过“故宫博物院”官方小程序或官网查询，不应通过未经授权的第三方代订。",
+      "content_hash": "a8ab31a45e5f97e7724a9e277a4dbeb0c4a8f4a2c6be68f71f34edb0ee90b9d2",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "c8602b33192cd10584b9f8570778636c",
+      "title": "深圳市老年人政府投资景区优惠政策",
+      "category": "elderly_ticket",
+      "source_name": "深圳市福田区民政局政策答复",
+      "source_url": "https://www.szft.gov.cn/msfw/shbz/cjwt/content/post_12619084.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/shenzhen_elderly_scenic_policy.md",
+      "chunk_uid": "385357b5b6d20e55dd8ead30bf908210a63ff1c6e2d3117186ecc3d8f2d70396",
+      "chunk_index": 0,
+      "content": "# 适用人群\n\n年满60周岁的老年人，包括符合条件的港澳台居民，可以按照深圳市相关敬老优惠政策享受政府投资建设旅游景区的门票优待。\n\n# 景区范围与凭证\n\n符合条件的老年人可凭本人身份证或港澳台居民居住证，免费进入深圳市政府投资建设的旅游景区；深圳市公园对老年人免费开放。具体景区是否属于政策范围，应以景区和主管部门公布的信息为准。\n\n# 社会投资景区\n\n政策鼓励社会投资建设的旅游景区向老年人提供优惠或免费，但具体方案由景区自主制定，不能直接套用政府投资景区的免费规则。\n\n# 出行前确认\n\n免费或优惠通常针对门票，不当然包含景区内观光车、索道、游船、演出等项目。出行前应通过景区官方渠道核对预约要求、证件原件和二次消费项目。",
+      "content_hash": "c8d45b6e0951a95d84689b74e7b23f5d09636bad928e3bdaa6f17cc4cbde419b",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "9e43b2fdef7ef687c6bbed4adabc531d",
+      "title": "武汉市景区老年人门票分类优惠说明",
+      "category": "elderly_ticket",
+      "source_name": "武汉市人民政府和武汉市文化和旅游局",
+      "source_url": "https://www.wuhan.gov.cn/hdjl/lxgs/202106/t20210622_1724836.shtml",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/elderly_ticket/wuhan_elderly_scenic_policy.md",
+      "chunk_uid": "e976c55f030d6cdb3e01c41556357483365df7f2b98547244912bb4376a9402e",
+      "chunk_index": 0,
+      "content": "# 武汉市景区老年人门票分类优惠说明\n\n## 景区类别不同\n\n武汉市文化和旅游主管部门说明，利用公共资源建设并实行政府定价或指导价的景区，以及政府主导建设的公益性城市公园、博物馆和纪念馆，通常对65周岁以上老年人执行免票或免费开放政策。\n\n社会资本投资、实行市场调节价的景区由经营者自主定价，优惠标准可能不同，不能把公办景区规则直接套用到欢乐谷、海洋公园等市场化景区。\n\n## 出行前确认\n\n老年游客应携带身份证或景区认可的年龄证明，并确认免票是否需要预约。首道门票免费不代表交通、演出、特展等项目免费。具体年龄边界、证件和预约要求以武汉市及相应景区最新公示为准。",
+      "content_hash": "36e80c0980aa64d5970d8e77d0564252a9a265b9c20ac2412ea654ec0d886b1e",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "19fb48800d958f3798bfbb047df2c791",
+      "title": "民航客舱安全带紧急出口与行李架须知",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217600.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_cabin_safety_seatbelt_exit.md",
+      "chunk_uid": "8455a4f5618aa67c4a3b2c362e98f5f71a62ff6a72324828416cd4030f78fde4",
+      "chunk_index": 0,
+      "content": "# 民航客舱安全带紧急出口与行李架须知\n\n## 入座与安全带\n\n登机后应按照登机牌指定座位入座，不得自行随意换座。应认真观看安全演示、阅读安全须知，安全带指示灯亮起时必须系好安全带；为防范突发颠簸，建议整个航程保持安全带系好。\n\n## 紧急出口\n\n紧急出口座位不能安排不具备应急协助能力的旅客，也不能堆放行李。老人、幼童、孕妇、行动不便或身体条件不适合的旅客，不应占用紧急出口座位，并应配合乘务员调整。\n\n## 客舱行李\n\n行李架属于公共设施，随身行李应按乘务员指引稳妥放置。取放行李时注意防止滑落伤人；滑行、起飞、下降和颠簸阶段不要离开座位或打开行李架。\n\n实际航班的电子设备使用、行李放置和安全要求，以机组现场指令为准。",
+      "content_hash": "fb8e7f2b15a3b18c59e90ca888e0b8a5f4e1664e9f2b4546403f1988c7acdb69",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "90311f507c3d3961068144b9b6f10313",
+      "title": "民航托运行李包装与贵重物品注意事项",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_checked_baggage_valuables.md",
+      "chunk_uid": "1fc8da816529a80c6415db8c0ae9ca2cb95ae3c0c7cf4cbf5b643bb625bd9c16",
+      "chunk_index": 0,
+      "content": "# 民航托运行李包装与贵重物品注意事项\n\n## 包装要求\n\n托运行李应包装完整、锁扣可靠，纸箱和编织袋应按航空公司要求打包。建议在行李外标注可联系到本人的信息，但不要公开不必要的敏感个人信息。\n\n超大、超重、异形行李和体育器材等特殊物品，通常需要提前征得航空公司同意，并到指定柜台办理。尺寸、重量、件数和免费额度由各航空公司依据客票和航线公布。\n\n## 不宜托运物品\n\n现金、珠宝、有价证券、重要文件、数码电子产品、易碎或易腐物品不宜夹入托运行李。锂电池等易燃易爆物品不得违规托运，具体要求应按民航局和承运人规定办理。\n\n如安检发现行李中存在不得运输的物品，承运人可能拒绝收运或终止运输。出发前应同时查看民航局目录、机场提示和实际承运航空公司的行李规则。",
+      "content_hash": "bcf224c8fc0cd07e730eec6719bd2d602a1819fadcc43e0fbba81a8e673c3524",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "792bc91a74e8548eea640c465d6204ef",
+      "title": "民航液态物品化妆品药品与酒精饮料规则",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局航空旅行常识",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_liquids_alcohol.md",
+      "chunk_uid": "5c82f39b6579876bcfae28cf419620cf3602e14628a4c4396839eab059ca1bfd",
+      "chunk_index": 0,
+      "content": "# 国内航班液态物品\n\n乘坐国内航班时，普通液态物品原则上不得随身携带。旅行途中自用化妆品每种限带一件，容器容积不得超过100mL，并应接受开瓶检查；限制判断看容器标称容积，而不是瓶内剩余量。牙膏和剃须膏每种限带一件且不得超过100g或100mL。\n\n# 国际和地区航班\n\n随身液态物品应放在单体容器容积不超过100mL的容器内，并集中放入最大容积不超过1L、可重新封口的透明塑料袋。每名旅客每次通常只允许携带一个透明袋，超出部分应按规定托运。\n\n# 婴儿食品与必要药品\n\n婴儿在航空旅行途中必需的液态乳制品，以及糖尿病或其他疾病旅客途中必需的液态药品，经安全检查确认后可以随身携带。建议携带能够说明用途的材料，并提前向机场和航空公司咨询。\n\n# 酒精饮料",
+      "content_hash": "8fee3a70f30bebef16ed8644aa9d25ccc77af0946f2533ea0f400085da224297",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "792bc91a74e8548eea640c465d6204ef",
+      "title": "民航液态物品化妆品药品与酒精饮料规则",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局航空旅行常识",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_liquids_alcohol.md",
+      "chunk_uid": "eb6c0e8885ff7c295366753710177a66299350e2124d474d1b10602b680c1e86",
+      "chunk_index": 1,
+      "content": "酒精饮料不可随身携带。托运时应有清晰标识并保持零售包装，每个容器不超过5L；酒精体积百分含量24%及以下通常不限制托运总量，超过24%但不超过70%时每名旅客托运总量不超过5L，超过70%不得携带或托运。",
+      "content_hash": "914524414c8c9e276588a450f43b66f3f2be7628d6b54595c91c45abcb2bbcfb",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "c30125f4d938ac06ec2f60ebdbd411b3",
+      "title": "民航锂电池与充电宝额定能量携带规则",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局航空旅行常识",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_lithium_power_limits.md",
+      "chunk_uid": "eef5a59fb2105a2f74f4e0970918a5969dcec75b163f850343ec96333bc66461",
+      "chunk_index": 0,
+      "content": "# 禁止托运\n\n备用锂电池和充电宝不得放入托运行李，只能随身携带或放入手提行李。电池端口应采取绝缘或独立包装等防短路措施，产品额定能量等标识应清楚可辨。\n\n# 额定能量不超过100Wh\n\n便携式电子设备中的锂电池、备用锂电池和充电宝额定能量不超过100Wh时，可以按民航要求随身携带，通常不需要航空公司事先批准，但仍应符合CCC标识、召回产品和实际承运人的附加要求。\n\n# 100Wh至160Wh\n\n额定能量超过100Wh但不超过160Wh时，必须事先获得航空公司批准，只能随身携带，每名旅客最多携带两块。额定能量超过160Wh的充电宝不得作为普通旅客行李携带。\n\n# 机上使用\n\n充电宝在飞行过程中应保持关闭，不得使用充电宝给电子设备充电，也不得在飞机上给充电宝充电。具体存放位置和使用要求应听从机组人员指令。\n\n# Wh换算",
+      "content_hash": "8439b1b408419d2ba92be130d6d5254c37e229c27e28fd6fb5b4f2b5bf790f1a",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "c30125f4d938ac06ec2f60ebdbd411b3",
+      "title": "民航锂电池与充电宝额定能量携带规则",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局航空旅行常识",
+      "source_url": "https://www.caac.gov.cn/INDEX/HLFW/HKLXCS/202303/t20230316_217597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_lithium_power_limits.md",
+      "chunk_uid": "dea0a8ba17a2413efa290042efc44018e00c2fe846a922b120d0ec29bf45e8b6",
+      "chunk_index": 1,
+      "content": "若产品只标注电压V和容量mAh，可用“Wh = V × mAh ÷ 1000”估算额定能量。无法从清晰标识计算额定能量的产品可能被拒绝运输，最终以机场安检和实际承运航空公司判断为准。",
+      "content_hash": "e5e61f2e1ec131ed3c4a5df39a0c77f6f6b4c16c37f0c11e4c67a68c33047e93",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "aca2d98c3b6e766a5ddfb8fff5cf4a03",
+      "title": "境内航班充电宝CCC标识与召回型号限制",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局充电宝安全通知",
+      "source_url": "https://www.caac.gov.cn/XWZX/MHYW/202506/t20250626_227805.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_power_bank_ccc.md",
+      "chunk_uid": "abb9b8d641e54e739ff6b9971061249c679c4da6deeaa945f6331716a3cb614e",
+      "chunk_index": 0,
+      "content": "# CCC标识要求\n\n自2025年6月28日起，境内航班禁止旅客携带没有CCC标识、CCC标识不清晰的充电宝。安检时应保证产品铭牌和CCC标识完整、清楚、可辨认。\n\n# 召回产品限制\n\n属于生产厂家或监管部门公布的召回型号、召回批次的充电宝，不得携带乘坐境内航班。旅客可在出行前根据产品品牌、型号和批次查询生产企业或市场监管部门发布的召回信息。\n\n# 与容量规则共同适用\n\n具有清晰CCC标识并不代表一定可以携带，充电宝仍须同时符合民航关于额定能量、随身携带、航空公司批准和机上使用的要求。不同航司或机场可能有进一步核验措施，出行前应向实际承运航空公司确认。",
+      "content_hash": "acc58a2003d2509f4dabc4d85576b6483b0f1eb20a870ea74dada3f8a0b6b905",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "c8fd6e3f31250680ca365705ae32b3d5",
+      "title": "民航禁止与限制随身携带托运物品处理规则",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/PHONE/XXGK_17/XXGK/TZTG/201612/t20161213_41103.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_prohibited_restricted_items.md",
+      "chunk_uid": "f24a18db984413d00c4fe4f5c537068dc9d0df7b241449691ca7567923f6ff30",
+      "chunk_index": 0,
+      "content": "# 民航禁止与限制随身携带托运物品处理规则\n\n## 物品分类\n\n民航旅客携带物品分为禁止随身携带和禁止托运、禁止随身携带但可按规定托运、以及经航空公司批准后方可运输的特殊物品。旅客应在购票、值机和安检前查询最新目录，并接受民航安全检查。\n\n禁止随身但允许托运的物品，可按安检机构指引办理托运、自行处置或在机场条件允许时暂存。需要航空公司批准的特殊物品，应提前取得承运同意并按照指定包装和交接程序办理。\n\n## 法律责任\n\n不得在随身行李或托运行李中故意隐匿危险品、违禁品或限制运输物品。涉及违反治安管理或犯罪的，将由公安机关依法处理。\n\n不同物品的数量、包装和批准条件可能调整，应以民航局、出发机场和实际承运航空公司的最新规定为准。",
+      "content_hash": "121ee58add36360c11e7183e03407ddd3040c39b51e4dc7d9cd7cc4b25599b3e",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "e49bbf2d0db022460e1c6381498da48c",
+      "title": "民航安检开包检查特殊物品与暂存处理",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/XXGK/XXGK/MHGZ/201610/t20161028_40361.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/caac_security_check_disposal.md",
+      "chunk_uid": "6d986927ce4597b4ad1c21e630401948df1fd67d098be851cd1f81ed9a5ce6e7",
+      "chunk_index": 0,
+      "content": "# 民航安检开包检查特殊物品与暂存处理\n\n## 开包检查\n\n托运行李须经过民航行李安检设备检查。发现可疑物品时，安检机构可以实施开箱包检查，排除疑点后方可放行；旅客应配合确认行李归属和检查程序。\n\n## 特殊物品\n\n依法需要航空公司批准后才能作为随身或托运行李运输的特殊物品，应先取得航空公司的同意承运证明，再经安全检查确认。旅客应提前查询承运人的特殊物品清单和申请流程。\n\n## 不能随身携带物品的处理\n\n对禁止随身携带但可以托运的物品，安检人员会告知旅客办理托运、自行处置或按机场规则申请暂存。机场提供暂存时，存放期限和领取方式按机场规定执行，超过期限可能被依法处理。\n\n液体、凝胶、气溶胶及危险品另有专门规定，最终以民航局、机场和承运航空公司的最新要求为准。",
+      "content_hash": "266f4696ea89fc499ed004538ad10446f1dee5c7e111378ab3ecace968381fb4",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "6f56d4dbfbed03bec54f5ef96ec3f848",
+      "title": "2026年民用航空法旅客安检与客舱秩序要点",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局",
+      "source_url": "https://www.caac.gov.cn/XXGK/XXGK/FLFG/202512/t20251227_229597.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/flight_safety/civil_aviation_order_rules_2026.md",
+      "chunk_uid": "73a2b505e07c4b9320aea16255ac556812913fde9c0177b7436ab054566a3a8c",
+      "chunk_index": 0,
+      "content": "# 2026年民用航空法旅客安检与客舱秩序要点\n\n## 安全检查\n\n旅客及其行李应依法接受民用航空安全检查。未经安检、不按规定接受安检，或经检查仍无法排除安全风险的旅客和行李，不得进入机场控制区。\n\n## 禁止扰乱秩序\n\n不得强占座位、行李架、安检通道或登机口，不得妨碍机组人员和安检人员履行职责。不得擅自开启应急舱门、损坏航空设施、在航空器内打架斗殴或散布虚假航空安全信息。\n\n航空器内禁止使用火种和吸烟，包括电子烟；电子设备应按航空公司和机组要求使用。不得违规随身携带或托运禁止、限制运输的物品。\n\n遇安全检查或客舱秩序要求时，应服从工作人员和机组指令。法律及配套规定更新时，以民航主管部门最新公布文本为准。",
+      "content_hash": "2cc46bd311ff8c702ed2e748124fb9561549f5247d6fd7ed62f813cdc30ec388",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "e59f6ddf7258d30eb9423fc91a9c53ee",
+      "title": "国内航班乘机安全与充电宝提示",
+      "category": "flight_safety",
+      "source_name": "中国民用航空局乘机安全信息",
+      "source_url": "https://www.caac.gov.cn/",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/flight_safety/flight_safety_notice.md",
+      "chunk_uid": "1f2a355e9f6c3929c4258805867235d3c2512a295f981d3c320f976ad48cec79",
+      "chunk_index": 0,
+      "content": "# 行李和危险品\n\n出行前应向实际承运航空公司了解随身行李、托运行李和禁止或限制携带物品的具体规定。危险品、易燃易爆品和其他受限制物品不得违反民航安全规定携带或托运。\n\n# 充电宝\n\n根据中国民用航空局2025年发布的境内航班安全要求，没有CCC标识、CCC标识不清晰、属于被召回型号或批次的充电宝，禁止携带乘坐境内航班。充电宝通常不得托运，乘机期间应遵守机组和航空公司的使用要求。\n\n# 客舱安全\n\n登机后应及时阅读安全须知，听从机组人员指令，正确放置随身物品并保持安全出口和通道畅通。涉及儿童、老人或行动不便旅客时，应提前向航空公司了解特殊服务和座位限制。\n\n# 核对最新规则\n\n不同航司、航线和机场可能有补充要求，行李额度和特殊旅客服务应以实际承运航空公司及出发机场最新公告为准。",
+      "content_hash": "d46bb9c459ec9bebb6890151726de36325cfe304db509cbf2655a9f038dc4426",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "838e91197c325c2ada9f13d6ad3c70d1",
+      "title": "高铁乘车与行李安全须知",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306行程信息提示及禁限带目录",
+      "source_url": "https://kyfw.12306.cn/otn/view/ticket_notice.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/highspeed_rail_safety/highspeed_rail_notice.md",
+      "chunk_uid": "3282d8da127beee3d3927e5821b38996788ddf127ba23548e4e6d791ddd90a8d",
+      "chunk_index": 0,
+      "content": "# 实名乘车和检票\n\n旅客应持购票时使用的本人有效身份证件乘车，确保票、证、人一致。列车开车前会提前停止检票，应预留实名核验、安检和候车时间。\n\n# 随身携带品\n\n铁路对免费携带品重量和尺寸设有限制，儿童与成人额度可能不同。动车组列车对物品外部尺寸有专门要求，超出规定时应按铁路要求办理托运或其他手续。\n\n# 禁止和限制携带物品\n\n枪支弹药、爆炸物品及其仿制品等不得随身携带或托运。酒类、喷雾、锂电池、工具等物品可能有数量、容量、包装或携带方式限制，应在出发前查看铁路12306最新《铁路旅客禁止、限制携带和托运物品目录》。\n\n# 乘车安全\n\n遇到灾害险情、列车运行调整或其他特殊情况，应听从铁路工作人员指挥。带儿童或老人出行时，应留出充足的进站和换乘时间，并避免在站台、车门附近拥挤停留。",
+      "content_hash": "03e91d67e571a90d887cbf203e5d20364875993fc6aa07d8bf29677b92fe9c5b",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "034e091e8796fe790825ea88989d9528",
+      "title": "高铁随身携带品重量尺寸与特殊物品规则",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/luggage.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_luggage_size_weight.md",
+      "chunk_uid": "2209f9f8e1b89ac274c60d9205838c964cdf05aa10483b851aa33ebc7a59261e",
+      "chunk_index": 0,
+      "content": "# 高铁随身携带品重量尺寸与特殊物品规则\n\n## 免费携带范围\n\n铁路12306公布的常规标准为：儿童免费携带品10千克，外交人员35千克，其他旅客20千克。每件物品重量通常不超过20千克；乘坐动车组列车时，每件物品外部尺寸长、宽、高之和通常不超过130厘米。\n\n依靠辅助器具行动的老、幼、病、残、孕等重点旅客使用的折叠轮椅，以及随行婴儿使用的折叠婴儿车，可按铁路规定免费携带且不计入普通携带品范围。\n\n## 放置和限制\n\n携带品应由旅客自行看管并稳妥放置，不得妨碍公共空间和安全。平衡车、滑行器等轮式代步工具应使用硬质包装妥善包装。\n\n酒类、香烟、活动物和其他限制物品另有数量或包装规定。车型、跨境列车及规则更新可能造成差异，出发前应查看12306最新携带品和禁限物品目录。",
+      "content_hash": "b9862b85de8bdf6cea6d6d82d2e909d0454451170b6521c1949636cc4287dc8f",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "c7ba8ebca63c8553bbfd045eb3ccf34d",
+      "title": "铁路旅客站台与动车组乘车安全须知",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/onboardSecurityInctruction.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_onboard_safety.md",
+      "chunk_uid": "30e717d4c3784f848a37a0decdf6330ebd9a4f158c972e3ec1869d283c98cec7",
+      "chunk_index": 0,
+      "content": "# 铁路旅客站台与动车组乘车安全须知\n\n## 进站和站台\n\n旅客应有序进站乘车，听从工作人员引导，在站台安全线以内候车。禁止追赶未停稳或已经启动的列车，不得抢上抢下、横穿股道、跳下站台或进入铁路线路。\n\n## 上下车和车内设施\n\n上下车应先下后上，注意车体与站台之间的缝隙，不得挤靠车门或阻碍车门关闭。非紧急情况不得触碰紧急制动阀、紧急停车按钮等安全设备。\n\n接取开水时不要过满，使用小桌板和调整座椅时留意同行旅客。站车电源仅用于手机、电脑、平板等小型电子设备充电，不得接入多功能插线板或大功率电器。\n\n动车组列车各部位禁止吸烟。发生紧急情况时应及时通知工作人员，听从指挥并帮助老、幼、病、残、孕等需要帮助的旅客有序撤离。",
+      "content_hash": "d0db2cf4e87e63d8678467a25a117f9f0808e2ea84a68986a49ba8c736deb2bd",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "744040f79ed56f976b572eb151d8b818",
+      "title": "铁路特殊重点旅客预约服务规则",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/view/icentre_qxyyInfo.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_priority_passenger_service.md",
+      "chunk_uid": "bff6be426a8893118a0ca73b94bf43a7ad7f1a6e8f0825ebc6180807230438e2",
+      "chunk_index": 0,
+      "content": "# 铁路特殊重点旅客预约服务规则\n\n## 服务对象和内容\n\n因年龄、行为或身体状况等原因，在旅行中依靠辅助器具行动并需要特殊照顾的旅客，可按铁路规定申请特殊重点旅客服务。\n\n申请成功后，车站和列车可根据实际提供便利进出站、优先安检、优先验证检票、引导帮扶、协助乘降、站内免费轮椅或担架，以及列车内随访关照等服务。\n\n## 申请时间\n\n线上预约一般应在乘车前6小时提交，并准确填写车票、乘车站、到站、车次、服务需求及证明材料。不足6小时的，应到乘车站现场提出，通常不得晚于开车前60分钟。\n\n涉及中转换乘时，应为每一段行程分别申请。铁路部门会核验身份、车票和证明材料，服务内容受车站设备及现场条件影响，以12306确认结果和工作人员安排为准。",
+      "content_hash": "184509645c0f6fa95b9666af9ae049b07545f3f80451a214b09843c402ea9e47",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "03df5ce8aad09d7146614bd3e0fa0ec0",
+      "title": "铁路旅客禁止限制携带和托运物品目录要点",
+      "category": "highspeed_rail_safety",
+      "source_name": "国家铁路局公安部禁限带物品目录",
+      "source_url": "https://www.12306.cn/mormhweb/zxdt/202206/t20220617_37625.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_prohibited_limited_items.md",
+      "chunk_uid": "4ff580f16bda08538b359d2cd3f8f66c9bd11b5460d812a8414ef42e20cf97f8",
+      "chunk_index": 0,
+      "content": "# 禁止随身携带和托运\n\n枪支、子弹及主要零部件，爆炸物品和烟花爆竹，管制器具，以及易燃、易爆、毒害、腐蚀、放射性等危险物品禁止随身携带和托运。仿制品、样品以及可能危害列车运行和旅客安全的物品也可能被禁止。\n\n# 可以托运但不能随身携带\n\n部分锐器、工具和其他可能造成人身伤害的物品不得随身携带，但在不属于禁止托运物品且符合包装等条件时，可以按铁路规定托运。是否可托运应以目录具体条目和车站办理条件为准。\n\n# 常见限量携带物品\n\n包装密封、标识清晰的酒类饮品，以及香水、花露水、喷雾、凝胶、自喷压力容器、安全火柴、普通打火机等物品有酒精度、单体容积、累计容量或数量限制。充电宝和锂电池须有清晰标志，单块额定能量一般不得超过100Wh，电动轮椅配套电池除外。\n\n# 出行核对",
+      "content_hash": "8509392e6bbcb9bea9dadef64450b886f276ecd5033d9beb6d0da9aa0a122693",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "03df5ce8aad09d7146614bd3e0fa0ec0",
+      "title": "铁路旅客禁止限制携带和托运物品目录要点",
+      "category": "highspeed_rail_safety",
+      "source_name": "国家铁路局公安部禁限带物品目录",
+      "source_url": "https://www.12306.cn/mormhweb/zxdt/202206/t20220617_37625.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_prohibited_limited_items.md",
+      "chunk_uid": "3093e20f15ade84e3480035f2f09e368f3d2d14780ee2bef630269f294199578",
+      "chunk_index": 1,
+      "content": "目录自2022年7月1日起施行；特定区域或特定时期可能依法提高查控标准。由于商品名称不能完全反映成分和包装方式，携带酒类、喷雾、工具、锂电池等物品前，应在铁路12306查询完整目录或咨询乘车站。",
+      "content_hash": "58a214253adc643c72b51a25703ee6d58753f2f7d1db6e89794ce3609b1faee1",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "162ffb07c621d8d28c2b8114e706c664",
+      "title": "动车组禁烟用电与车内安全规则",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/railwayService.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_smoking_power_safety.md",
+      "chunk_uid": "099ee1c36a634186b7a6776f09bcfae60c8cc924536a6e43c3d1a614675a92a2",
+      "chunk_index": 0,
+      "content": "# 动车组禁烟用电与车内安全规则\n\n## 禁止吸烟\n\n动车组列车全程各部位严禁吸烟，包括卫生间和连接处。在动车组或其他列车禁烟区域吸烟，可能依据铁路安全管理规定被责令改正并受到处罚，也可能被纳入铁路旅客信用信息记录。\n\n## 车内用电\n\n列车电源主要用于手机、平板电脑和笔记本电脑等小型电子产品充电。不得使用电水壶等大功率电器，不得私接多功能插线板或进行可能影响供电安全的操作。\n\n## 行李和儿童安全\n\n行李应封闭并平稳放置，尖角、沉重和杆状物品应按乘务人员指引放入大件行李处或座椅下。接开水不要过满。携带儿童的旅客应防止儿童在车厢内奔跑、攀爬或触碰电茶炉和制动设施。\n\n乘车时应随时关注广播，发生异常及时联系工作人员并服从现场指挥。",
+      "content_hash": "9772bb230bec13c9740d7d653a89bf03a8d6bc147f8c71c75426c369db46ce4f",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "7b2ca9d359df74475e5a8dd3c9f10f62",
+      "title": "铁路实名制证件与临时乘车身份证明",
+      "category": "highspeed_rail_safety",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/realNameTicket.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/highspeed_rail_safety/railway_temporary_identity.md",
+      "chunk_uid": "6254a5aa0ecb8bebf8cf21c0c1f2affbdfc1644564f8d9ebf5c040517a9599e4",
+      "chunk_index": 0,
+      "content": "# 铁路实名制证件与临时乘车身份证明\n\n## 实名乘车\n\n旅客应使用铁路认可的有效身份证件购票，并携带购票时使用的证件原件完成实名制核验和检票。居民身份证、港澳台居民居住证、外国人永久居留身份证等可识读证件，可按车站条件通过自助闸机；使用其他有效证件的旅客通常需要通过人工通道。\n\n## 证件遗失\n\n因有效身份证件未携带或丢失而无法出示证件时，可前往车站铁路公安制证口办理临时乘车身份证明；符合条件的中国居民身份证旅客，也可在铁路12306 APP申请电子临时乘车身份证明。\n\n临时乘车身份证明仅用于购票、退票、改签、实名核验、检票和乘车，应妥善保管。证件适用范围和线上申请条件以12306及车站最新规定为准。",
+      "content_hash": "fb2b513f9a0616828a17e33d1abc2d8a3df13764e1e4e524627edc5757a65cb3",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "0ed8fa48aae067a0d5fe3a54d127ab44",
+      "title": "丹霞山2026年学生与毕业生门票优惠",
+      "category": "student_ticket",
+      "source_name": "丹霞山风景名胜区官方网站",
+      "source_url": "https://dxs.sg.gov.cn/zwgk/bmwj/content/post_2801349.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/danxia_student_discount_2026.md",
+      "chunk_uid": "0b6b5828854b117f142825b9431bb812907fb7f2cc31a57442265f4ad17bc78a",
+      "chunk_index": 0,
+      "content": "# 丹霞山2026年学生与毕业生门票优惠\n\n## 常规学生优惠\n\n丹霞山2026年门票政策规定，全日制本科及以下学历学生，持本人有效身份证件和学生证，可按景区政策享受学生半价门票。成人教育、非全日制等是否适用，以景区现场核验为准。\n\n## 2026年限时活动\n\n2026年6月10日至8月31日，应届中考、高考毕业生持本人当年准考证和有效身份证件，可按公告享受门票免费优惠。2026年9月，粤港澳地区普通高等学校学生持有效身份证件和学生证或当年录取通知书，可按公告享受门票免费优惠。\n\n上述免费活动有明确日期和对象，活动结束后不能继续引用。优惠通常不包含景区交通、游船和其他收费项目，最终以丹霞山最新票务公告及现场查验为准。",
+      "content_hash": "d1abd5cef0de20c8534b58b7c22bda0caf3608eb7462facaf64eddf2df6e6b56",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "0051dda99bae308226e8d00d0f8bbaf6",
+      "title": "广州市政府指导价景区学生门票优惠规则",
+      "category": "student_ticket",
+      "source_name": "广州市发展和改革委员会",
+      "source_url": "https://fgw.gz.gov.cn/gkmlpt/content/10/10424/post_10424266.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/guangzhou_scenic_student_discount.md",
+      "chunk_uid": "4256dc60f2b0c906b0ed452d2559dc1ab51cfc57c5c296a997f0dabeef22cc8f",
+      "chunk_index": 0,
+      "content": "# 广州市政府指导价景区学生门票优惠规则\n\n## 优惠对象\n\n广州市景区门票管理办法规定，实行政府指导价的景区对6周岁以上至18周岁的未成年人，以及全日制大学本科及以下学历学生，凭有效证件实行门票半价优惠。\n\n6周岁及以下或身高1.3米及以下儿童，按该办法适用免票政策。不同年龄、身高或学生身份重叠时，应根据景区售票系统和现场核验选择适用票种。\n\n## 优惠范围\n\n优惠针对景区门票，不包括景区内交通、保险、娱乐设施、临时活动和讲解等服务。实行市场调节价的景区被鼓励参照，但不必然执行相同折扣。\n\n该规则仅适用于广州市相应景区，不能作为全国学生景区票统一标准。购票前应核对景区名单、学生证件和最新公示。",
+      "content_hash": "a9117a705d6b8ce2057aaecaf2bf8b7d82deca96922a29b98eb345db5d4de76a",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "8c56475a3af8e062bf66269174906455",
+      "title": "铁路学生优惠票使用区间席别和票价优化规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306学生旅客购票优惠措施",
+      "source_url": "https://www.12306.cn/mormhweb/zxdt/202508/t20250815_44642.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_2025_optimization.md",
+      "chunk_uid": "cd209225715e78c7507e65119261f3c3aa0f631fc9c38fc2435da5de5da235be",
+      "chunk_index": 0,
+      "content": "# 使用时间与次数\n\n学生优惠票以每年10月1日至次年9月30日为一个学年，每学年有四次单程优惠。优惠票可在学年内使用，不再只限寒暑假。办理退票后，符合铁路规则的优惠次数会返还；未使用次数不能结转到下一学年。\n\n# 优惠区间\n\n优惠区间围绕家庭居住地和学校所在地设置。院校所在地应与学籍信息一致，家庭居住地可根据实际变化调整。实际填写区间应与铁路12306资质信息和学生凭证保持一致，超出或不符合优惠区间可能需要补收票价差额。\n\n# 动车组席别与票价\n\n铁路公告将动车组学生优惠票适用范围扩展到二等座、一等座和卧铺等席别，动车组学生优惠票按相应席别全价执行票价的75%计算，并受铁路公布票价最低折扣规则约束。普速列车和其他席别采用各自的学生优惠计价办法。\n\n# 出行前核对",
+      "content_hash": "544ad4c04e4f2007aacb9cc9deebaaea16b8661ce1b4c54c5d2e05ef203b5b8c",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "8c56475a3af8e062bf66269174906455",
+      "title": "铁路学生优惠票使用区间席别和票价优化规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306学生旅客购票优惠措施",
+      "source_url": "https://www.12306.cn/mormhweb/zxdt/202508/t20250815_44642.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_2025_optimization.md",
+      "chunk_uid": "aad3e026a121bf8b41ccdc87ccfa0454e2157ba184e11b0a0d61fa57119bfaa9",
+      "chunk_index": 1,
+      "content": "票价、可售席别和优惠区间以购票当日铁路12306实际展示为准。旅客应在乘车前完成所需资质核验，并携带购票所用有效身份证件及铁路要求的学生身份证明。",
+      "content_hash": "93b2b77bcc27f5a88020c3072889a77bb8bcacbb765832de723db2d270de3e8c",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "efbdd28cb27760cfc33d3f9872dd1e85",
+      "title": "铁路学生优惠票适用人群与证明材料",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_eligibility_materials.md",
+      "chunk_uid": "4d6e1ee818f693c4ebdbb2e9f64ddd658b1d6f561b226ac3f841822d63cbdac8",
+      "chunk_index": 0,
+      "content": "# 铁路学生优惠票适用人群与证明材料\n\n## 适用人群\n\n符合铁路规定的全日制高等学校、承担研究生教育任务的科研机构、军事院校、普通中小学、中等职业学校以及正式宗教院校学生，家庭居住地与学校所在地不在同一城市时，可在符合条件的区间购买学生优惠票。\n\n在校大中专学生通常需持附有火车票学生优惠卡、标注优惠区间并加盖院校公章的学生证。中小学生按铁路规定使用加盖学校公章的书面证明。\n\n## 新生和毕业生\n\n新生可凭录取通知书按规定购买入学当年的学生优惠票；毕业生可凭盖有院校公章的学校书面证明购买符合条件的学生优惠票。购票和乘车还需使用本人有效身份证件。\n\n学校类型、学习形式、证件状态和优惠区间均会影响资格。最终以12306资质核验及乘车时铁路工作人员查验结果为准。",
+      "content_hash": "fc4fe6abebee256140febf991387cec2d50fdf89a49e12a5a3a8f73dbf429c07",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "6666a61cc570f0d7204af781311d687b",
+      "title": "铁路学生票优惠区间次数与联程规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306",
+      "source_url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/studentInstruction/student-ticket-instruction.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_interval_frequency.md",
+      "chunk_uid": "52464ee998069cef838e79f891e2c12aabe94d3363e051e685adc04b0c47b338",
+      "chunk_index": 0,
+      "content": "# 铁路学生票优惠区间次数与联程规则\n\n## 优惠区间\n\n学生优惠票应在铁路认定的家庭居住地至院校或实习地点之间的优惠乘车区间内使用。填写区间与学生证或优惠卡记载不一致时，铁路可能补收超出区间或全程的票价差额。\n\n## 优惠次数\n\n学生优惠乘车次数按铁路当前学年规则管理，通常每学年可购买4次单程学生优惠票，未使用次数不能简单累积到下一学年。新生和毕业生的次数及证明材料适用专门规定。\n\n## 联程车票\n\n在优惠区间内购买符合条件的联程车票时，铁路按现行规则计算优惠次数；换乘间隔、线路和区间不符合条件时，可能分别计次或不能享受优惠。\n\n学生票政策曾有调整，出行前应在12306核对当前学年起止时间、联程扣次、可售席别和区间规则。",
+      "content_hash": "b4caf7d4304c193d292bf1ef3a61fa7de9e4b7b81ad0bcc8f870991e404573e8",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "fb767894f15d3ab75f4f960cb1f8c00e",
+      "title": "铁路新生凭录取通知书购买学生优惠票规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306学生票常见问题",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_newcomer.md",
+      "chunk_uid": "1110d4dd562d60c9b1ed7346841d84a882d9febbf225ea10d333d906ab9cac0e",
+      "chunk_index": 0,
+      "content": "# 新生购票资格\n\n入学新生可以凭录取通知书购买学生优惠票。新生当年开学前可购买一次从家庭居住地到学校所在地的单程学生优惠票。购票和乘车使用新生本人的有效身份证件。\n\n# 线上购买步骤\n\n新生应使用本人身份信息注册铁路12306账户，并将优惠类型设置为学生。可在铁路12306 App 的学生优惠资质核验专区填写姓名、证件号码、学校、家庭所在地和预计毕业年份等信息，提交后购买学生优惠票。\n\n# 核验与进站\n\n新生没有学生优惠卡，不能按普通在校生方式完成优惠卡资质核验。线上购票后，可携带本人有效身份证件和录取通知书到车站窗口办理核验，再刷身份证进站；如果没有完成线下核验，应携带录取通知书和购票使用的有效身份证件，通过人工检票通道进站乘车。\n\n# 注意事项",
+      "content_hash": "f0de721052ed6856d0a45a98121de834f7b8bda7b6af7d0c4ad832ea40850bd7",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "fb767894f15d3ab75f4f960cb1f8c00e",
+      "title": "铁路新生凭录取通知书购买学生优惠票规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306学生票常见问题",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_newcomer.md",
+      "chunk_uid": "e9e076fa1649bb8c996b7a830aee69f4bb0152fe7028cb853f88345ca0225b0a",
+      "chunk_index": 1,
+      "content": "录取通知书规则适用于入学新生的规定区间和次数，不等同于普通在校生每学年四次优惠。购票前应核对通知书、本人身份信息、家庭所在地和学校所在地，最终以铁路12306当前页面和车站核验为准。",
+      "content_hash": "313672f7270c230094461f51fbdf4980af2747e72e8d7f78da28572c8868d690",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "7be2340d894ae82147953ec886ded9b7",
+      "title": "铁路学生优惠资质核验与进站规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-17",
+      "file_path": "kb/student_ticket/railway_student_qualification_entry.md",
+      "chunk_uid": "80f6430d361dfbd95fe059f8361cffdfe1467768b316e51e27bfeee209aa6311",
+      "chunk_index": 0,
+      "content": "# 铁路学生优惠资质核验与进站规则\n\n## 资质核验\n\n符合学生优惠票条件的在校学生，应在乘车前按12306要求完成学生优惠资质核验。可通过12306提供的线上专区办理在校身份核验，也可携带居民身份证和学生优惠卡到车站指定窗口或自动售取票机办理人工核验。\n\n线上在校身份核验不等同于对优惠乘车区间的最终确认。旅客填写的家庭所在地、学校所在地和优惠区间应与学生证及优惠卡信息一致。\n\n## 进站乘车\n\n核验通过的旅客可按车站条件使用居民身份证办理实名验证和检票，但仍应随身携带学生证等优惠凭证，以备车站或列车工作人员查验。\n\n未办理、未通过核验或区间不一致时，可能需要补收票价差额。核验方式和证件要求调整时，以12306最新说明为准。",
+      "content_hash": "08a99251db1e79aa1aaea2880923281a8e6a090d2a4ad93e9e5b346798740414",
+      "untrusted_content": true
+    },
+    {
+      "document_id": "56e3aeecc57c4d6b0bad441be7d5d33a",
+      "title": "铁路学生优惠票规则",
+      "category": "student_ticket",
+      "source_name": "中国铁路12306学生优惠票说明",
+      "source_url": "https://kyfw.12306.cn/otn/gonggao/student.html",
+      "updated_at": "2026-07-13",
+      "file_path": "kb/student_ticket/railway_student_ticket.md",
+      "chunk_uid": "f15ee74d3988fcccea980983b1cea1616328f3cbf1f6c3de1f32d071ee4dfd36",
+      "chunk_index": 0,
+      "content": "# 适用条件\n\n符合铁路规定的在校学生，家庭居住地和学校所在地不在同一城市，且学生证、学生优惠卡和优惠区间等信息符合要求时，可以购买学生优惠票。中小学生按铁路规定使用学校书面证明办理。\n\n# 次数与区间\n\n每学年可购买家庭居住地至院校或实习地点所在地之间四次单程学生优惠票。优惠次数、乘车区间和资质应以铁路12306当前核验结果为准。\n\n# 资质核验和证件\n\n学生每学年乘车前应按铁路要求完成优惠资质核验。乘车时应携带购票所使用的有效身份证件以及铁路要求核验的学生身份证明。只有学生证通常不能替代实名制购票所需的有效身份证件。\n\n# 新生和毕业生\n\n新生、毕业生可按铁路公布的证明材料和次数规则购买学生优惠票。规则可能调整，应在购票前通过铁路12306核对最新适用席别、折扣和证明要求。",
+      "content_hash": "f7c6e0771d5a3859e43ef98a86381bd09a9a92557c33cd724907c0b879290a77",
+      "untrusted_content": true
+    }
+  ]
+}

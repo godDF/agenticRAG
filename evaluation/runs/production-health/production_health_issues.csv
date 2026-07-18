@@ -1,0 +1,53 @@
+﻿point_id,issue,category,title,detail
+022255fd-e40e-5b39-91aa-ffd0fb233624,category_mismatch,student_ticket,旅游景区通用安全注意事项,内容声明attraction_notice，Payload为student_ticket
+022255fd-e40e-5b39-91aa-ffd0fb233624,missing_metadata,student_ticket,旅游景区通用安全注意事项,缺少字段: source_url
+190e415b-14c4-5d2f-ab3e-ecb9e57519d3,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+219a8cb6-263a-5323-a9ec-17afbcd6783d,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+2707dcfc-8f79-5056-b235-22e475a5c398,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+2df52f1d-2efd-554a-8949-b5afdf7b5e0f,missing_metadata,student_ticket,高铁乘车与行李安全须知,缺少字段: source_url
+33b1f5cd-111c-57fd-8bdd-201ed55c81d6,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+3a5795cc-ab53-5aa7-b95d-17d76f0d6c8c,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+3ff3817a-5477-5e9b-be6b-38065643f825,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+4cd624b7-8698-5e61-a993-2bd86a44232b,missing_metadata,student_ticket,国内航班乘机安全与充电宝提示,缺少字段: source_url
+5eb82786-b161-5645-842d-418c89dae1f1,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+60f7a645-f370-5385-a3f1-14812ed61341,missing_metadata,student_ticket,旅游景区通用安全注意事项,缺少字段: source_url
+621b57b3-90f9-5bd4-8544-1776ef0b6abd,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+682e5242-c2a0-55e7-b9ac-ca9caf7f28ab,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+6ae1e227-0f98-50f0-92c1-b5e1bb725f6f,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+7d475ca0-b999-588d-b930-73bd24f6bd4b,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+7e09740e-5eab-58d7-b4b3-8506e6423f0a,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+807665c6-9422-577c-bc1c-742177758e21,category_mismatch,student_ticket,高铁乘车与行李安全须知,内容声明highspeed_rail_safety，Payload为student_ticket
+807665c6-9422-577c-bc1c-742177758e21,missing_metadata,student_ticket,高铁乘车与行李安全须知,缺少字段: source_url
+87b92fd5-6768-52e5-b0b5-25f7570b24b5,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+887f7331-efa4-5597-829f-53be6d3796a6,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+8a05fd29-6dfe-5e5a-8fc4-23458f9fcc31,missing_metadata,student_ticket,铁路学生优惠票规则,缺少字段: source_url
+8aefa345-ecf8-5b91-86ce-931d65d8dc39,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+8d2ff458-73da-5c9f-bbb0-e235fb3f265c,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+977cdf03-b329-58dc-abc9-3837beb248f5,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+9d51cf54-c1f3-58d1-a74c-e3921a1b9567,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+a07308b9-0f06-5a25-a463-8217a64aca4c,missing_metadata,student_ticket,铁路学生优惠票规则,缺少字段: source_url
+ab3bf886-8b36-5aeb-bca1-c3748a37a593,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+adf21894-85e6-5480-b444-7f425cb63736,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+b0196288-83d8-51d3-9143-b5a6674dbd97,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+b246959e-b9b5-5696-bc55-a5a2d053ee13,category_mismatch,student_ticket,老年旅客票务与景区服务提示,内容声明elderly_ticket，Payload为student_ticket
+b246959e-b9b5-5696-bc55-a5a2d053ee13,missing_metadata,student_ticket,老年旅客票务与景区服务提示,缺少字段: source_url
+ba1abafe-587b-5e5a-b443-a73518b54819,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+ba591311-9678-5cd4-849c-5c6a74cdd66a,category_mismatch,student_ticket,国内航班乘机安全与充电宝提示,内容声明flight_safety，Payload为student_ticket
+ba591311-9678-5cd4-849c-5c6a74cdd66a,missing_metadata,student_ticket,国内航班乘机安全与充电宝提示,缺少字段: source_url
+c0177b78-f6e2-5c80-8d0c-9e9f6fc9c581,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+c46794d3-56f9-5cca-9076-90703223e168,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+c7b6eb8d-529b-58d1-8e2e-8ff29bb413aa,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+cc3550a3-81b8-5c8f-a13f-40c47fe76bd2,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+d1c1cb52-48bd-51a5-b710-b51046999230,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+d660470f-d83f-546a-bc25-b9a4d225845b,category_mismatch,student_ticket,铁路儿童优惠票与免费乘车规则,内容声明child_ticket，Payload为student_ticket
+d660470f-d83f-546a-bc25-b9a4d225845b,missing_metadata,student_ticket,铁路儿童优惠票与免费乘车规则,缺少字段: source_url
+d9909010-8a3f-5d32-8c65-c3da749063ba,missing_metadata,student_ticket,铁路儿童优惠票与免费乘车规则,缺少字段: source_url
+dc2eab0a-f32f-50b6-a848-3be1ef800e23,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+dc98c72b-6743-526a-93a4-2f231a115094,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+e67509e2-1059-5a7e-9937-4c592350a879,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+f57b63b8-b3d3-595c-a91c-dd63af0df520,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+f910e4ec-748e-5b83-9a26-b3de2a8fce95,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+f9c9ec24-c80d-5000-9f88-046ec4b62dc9,missing_metadata,student_ticket,老年旅客票务与景区服务提示,缺少字段: source_url
+fd42fc03-9cc2-5165-a931-ebf71ebb06c4,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+ff3c0cfe-1341-5116-86f8-b803d20795ca,missing_metadata,student_ticket,项目细节,缺少字段: source_url
+ffc12ffc-2032-5852-a073-f83ba7ad1acb,missing_metadata,student_ticket,项目细节,缺少字段: source_url

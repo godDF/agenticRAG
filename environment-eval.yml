@@ -1,0 +1,14 @@
+name: agenticRAG-eval
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pyarrow=19
+  - pandas=3.0.3
+  - pip
+  - pip:
+      - ragas==0.4.3
+      - openai==2.45.0
+      - python-dotenv==1.2.2
+      - langchain-community==0.3.31

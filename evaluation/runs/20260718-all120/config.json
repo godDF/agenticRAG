@@ -1,0 +1,60 @@
+{
+    "run_id":  "20260718-all120",
+    "dataset_version":  "v1",
+    "dataset_path":  "D:\\agent_project\\chinaTravel_agenticRAG\\evaluation\\datasets\\chinatravel_rag_v1.jsonl",
+    "manifest_path":  "D:\\agent_project\\chinaTravel_agenticRAG\\evaluation\\manifests\\kb_v1.json",
+    "corpus_hash":  "e1e2caec261d82666f060ef10ff994710a169dbc7fcd57f218a8532de6e8fb0d",
+    "suite":  "all",
+    "case_count":  120,
+    "systems":  [
+                    "baseline",
+                    "agentic"
+                ],
+    "repetitions":  1,
+    "concurrency":  2,
+    "timeout_seconds":  45.0,
+    "seed":  20260717,
+    "python":  "3.12.13",
+    "platform":  "Windows-11-10.0.26200-SP0",
+    "dependencies":  {
+                         "fastapi":  "0.139.0",
+                         "qdrant-client":  "1.18.0",
+                         "openai":  "2.45.0",
+                         "httpx":  "0.28.1",
+                         "numpy":  "1.26.4",
+                         "langchain":  "0.2.17",
+                         "langchain-core":  "0.2.43",
+                         "ragaai-catalyst":  "2.1.7.4",
+                         "ragas":  "not-installed"
+                     },
+    "runtime":  {
+                    "LLM_MODEL":  "deepseek-v4-flash",
+                    "BGE_M3_MODEL":  "BAAI/bge-m3",
+                    "BGE_M3_VECTOR_SIZE":  "1024",
+                    "QDRANT_URL":  "http://127.0.0.1:7333",
+                    "QDRANT_COLLECTION":  "chinatravel_safety_knowledge",
+                    "RAG_RETRIEVE_TOP_K":  "8",
+                    "RAG_CONTEXT_TOP_K":  "4",
+                    "RAG_RETRIEVE_THRESHOLD":  "0.55",
+                    "RAG_ACCEPT_THRESHOLD":  "0.55",
+                    "RAG_MAX_ROUNDS":  "2",
+                    "RAG_MAX_SUBQUERIES":  "2"
+                },
+    "evaluation_collection":  "chinatravel_safety_eval_v1",
+    "production_collection":  "chinatravel_safety_knowledge",
+    "started_at":  "2026-07-18T01:07:20+0800",
+    "completed_at":  "2026-07-18T01:07:41+0800",
+    "completed_items":  240,
+    "judge_environment":  {
+                              "environment":  "agenticRAG-eval",
+                              "python":  "3.12.13",
+                              "ragas":  "0.4.3",
+                              "openai":  "2.45.0",
+                              "pyarrow":  "19.0.0",
+                              "pandas":  "3.0.3",
+                              "langchain_community":  "0.3.31",
+                              "model":  "deepseek-v4-flash",
+                              "thinking":  "disabled",
+                              "max_tokens":  8192
+                          }
+}

@@ -1,0 +1,19 @@
+{
+  "dataset_version": "v1",
+  "seed": 20260717,
+  "sample_count": 120,
+  "distribution": {
+    "single_hop": 48,
+    "paraphrase": 24,
+    "multi_context": 24,
+    "unanswerable": 12,
+    "noise_conflict": 12
+  },
+  "review_status": "pending_human_review",
+  "llm_usage": {
+    "input_tokens": 93273,
+    "output_tokens": 42494
+  },
+  "index_result": null,
+  "manifest_path": "D:\\agent_project\\chinaTravel_agenticRAG\\evaluation\\manifests\\kb_v1.json"
+}

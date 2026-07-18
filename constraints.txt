@@ -1,0 +1,9 @@
+# Compatibility pins required by ragaai-catalyst 2.1.7.4 on Python 3.12.
+litellm==1.61.15
+langchain==0.2.17
+langchain-core==0.2.43
+langsmith==0.1.147
+numpy==1.26.4
+packaging==24.2
+setuptools==80.9.0
+
