@@ -28,7 +28,7 @@ class TraceRecorder:
         self.cache_hit_input_tokens = 0
         self.cache_miss_input_tokens = 0
         self.cache_usage_reported = True
-
+    # 发送事件到事件 sink
     async def _emit(self, event: dict[str, Any]) -> None:
         if self.event_sink is None:
             return
@@ -39,7 +39,7 @@ class TraceRecorder:
         except Exception:
             # Observability must never make the actual RAG query fail.
             return
-
+    # 记录 RAG 查询的阶段
     @asynccontextmanager
     async def stage(
         self,
@@ -94,7 +94,7 @@ class TraceRecorder:
             }
             self.events.append(event)
             await self._emit(event)
-
+    # 记录 RAG 查询的 token 使用情况
     def add_tokens(
         self,
         input_tokens: int,
